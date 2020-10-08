@@ -26,4 +26,6 @@ I am 25 yo and I do all kinds of stuff, but mostly:
 
 - Computational graphs and AI in C++ @ Synopsys HQ in Palo Alto, CA, USA. [GitHub](https://github.com/ashvardanian/NeuralSTL).
 - Efficient GPGPU Programming @ JetBrains HQ in St. Petersburg, Russia. [GitHub](https://github.com/ashvardanian/SandboxGPUs), [YouTube](https://youtu.be/BUtHOftDm_Y).
-- Deep dive into GPGPU programming @ CppRussia Conference in St. Petersburg, Russia. [GitHub](https://github.com/ashvardanian/SandboxGPUs), [YouTube]().
+- Deep dive into GPGPU programming @ CppRussia Conference in St. Petersburg, Russia. [GitHub](https://github.com/ashvardanian/SandboxGPUs), [YouTube](https://youtu.be/AA4RI6o0h1U).
+- Artsakh Must Be Independent. Yerevan, Armenia. [YouTube](https://youtu.be/sN8CsCgDlHY).
+- A conversation about High Performance Computing @ Pure Virtual Cast #4. [YouTube](https://youtu.be/dCdBFB4LDjw).
