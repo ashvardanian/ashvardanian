@@ -19,8 +19,7 @@ I am 25 yo and I do all kinds of stuff, but mostly:
 
 ## Current Work
 
-- [Project Unum](https://unum.xyz), that aims to scale Artificial Intelligence beyond traditional limits.
-- [C* Programming Language](https://unum.xyz/cstar), that unites the simplicity of Common LISP and the power of C++. 
+- [Project Unum](https://unum.am), that aims to scale Artificial Intelligence beyond traditional limits.
 
 ## My Lectures
 
