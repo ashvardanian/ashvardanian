@@ -9,13 +9,15 @@ I am 25 yo and I do all kinds of stuff, but mostly:
 ## My Timeline
 
 👶🏻 Wrote my first line of code in the elementary school.<br/>
-👦🏻 Received my first freelance Web-Dev order in the middle school.<br/>
+👦🏻 Freelanced as a web-developer in the middle school.<br/>
 🧔🏻 Launched my first profitable IT business in the high school.<br/>
 🔭 Dropped my Astrophysics degree. Twice.<br/>
-🏢 Already spent 5 years building [Unum](https://unum.am) without external funding.<br/>
-🌍 Visited over 50 countries across 4 continents, lived in 11 of them.<br/>
-👅 Fluent in Russian, Armenian & English. Intermediate in a few other languages. <br/>
-💻 These days I code in C++ 20, Python, Swift & LISPs.<br/>
+💵 Sitting on semiconductor & tech stocks since 2013.<br/>
+🏢 Invested 6 years of research to design [Unum](https://unum.am), self-funded!<br/>
+🌍 Visited ~50 countries across 4 continents, lived in 11 of them.<br/>
+👅 Fluent in Russian, Armenian & English.<br/>
+💻 These days I code in C++ 20, CUDA 17, Python, and in Assembly on x86/ARM.<br/>
+❤️ Science, big servers, chess and smart women!<br/>
 
 ## Current Work
 
