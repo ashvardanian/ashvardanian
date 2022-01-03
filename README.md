@@ -13,7 +13,7 @@ I am 26 yo and I do all kinds of stuff, but mostly:
 🧔🏻 Launched my first profitable IT business in the high school.<br/>
 🔭 Dropped my Astrophysics degree. Twice.<br/>
 💵 Sitting on semiconductor & tech stocks since 2013.<br/>
-🏢 Invested 6 years of research to design [Unum](https://unum.am), self-funded!<br/>
+🏢 Invested 6 years of research to design [Unum](https://unum.cloud), self-funded!<br/>
 🌍 Visited ~50 countries across 4 continents, lived in 11 of them.<br/>
 👅 Fluent in Russian, Armenian & English.<br/>
 💻 These days I code in C++ 20, CUDA 17, Python, and in Assembly on x86/ARM.<br/>
