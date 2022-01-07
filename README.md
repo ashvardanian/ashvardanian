@@ -1,6 +1,6 @@
 ### Hey, I'm Ashot!
 
-I am 26 yo and I do all kinds of stuff, but mostly:
+I do all kinds of stuff, but mostly:
 
 * Artificial Intelligence, 
 * High-Performance Computing and
@@ -17,7 +17,7 @@ I am 26 yo and I do all kinds of stuff, but mostly:
 🌍 Visited ~50 countries across 4 continents, lived in 11 of them.<br/>
 👅 Fluent in Russian, Armenian & English.<br/>
 💻 These days I code in C++ 20, CUDA 17, Python, and in Assembly on x86/ARM.<br/>
-❤️ Science, big servers, chess and smart women!<br/>
+❤️ Science, big servers & chess!<br/>
 
 ## Current Activities
 
