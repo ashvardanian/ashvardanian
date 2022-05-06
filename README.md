@@ -8,9 +8,9 @@ I do all kinds of stuff, but mostly:
 
 ## My Timeline
 
-👶🏻 Wrote my first line of code in the elementary school.<br/>
-👦🏻 Freelanced as a web-developer in the middle school.<br/>
-🧔🏻 Launched my first profitable IT business in the high school.<br/>
+👶🏻 Wrote my first line of code in elementary school.<br/>
+👦🏻 Freelanced as a web-developer in middle school.<br/>
+🧔🏻 Launched my first profitable IT business in high school.<br/>
 🔭 Dropped my Astrophysics degree. Twice.<br/>
 💵 Sitting on semiconductor & tech stocks since 2013.<br/>
 🏢 Invested over 6 years of research to design [Unum](https://unum.cloud), self-funded!<br/>
