@@ -1,4 +1,4 @@
-### Hey, I'm Ashot!
+### Hey, I'm Ash!
 
 I do all kinds of stuff, but mostly:
 
@@ -8,7 +8,7 @@ I do all kinds of stuff, but mostly:
 
 ## My Timeline
 
-👶🏻 Wrote my first line of code in elementary school.<br/>
+👶🏻 I wrote my first line of code in elementary school.<br/>
 👦🏻 Freelanced as a web-developer in middle school.<br/>
 🧔🏻 Launched my first profitable IT business in high school.<br/>
 🔭 Dropped my Astrophysics degree. Twice.<br/>
@@ -16,13 +16,13 @@ I do all kinds of stuff, but mostly:
 🏢 Invested over 6 years of research to design [Unum](https://unum.cloud), self-funded!<br/>
 🌍 Visited ~50 countries across 4 continents, lived in 11 of them.<br/>
 👅 Fluent in Russian, Armenian & English.<br/>
-💻 These days I code in C++ 20, CUDA 17, Python, and in Assembly on x86/ARM.<br/>
+💻 These days, I code in C++ 20, CUDA 17, Python, and Assembly on x86/ARM.<br/>
 ❤️ Science, big servers & chess!<br/>
 
 ## Current Activities
 
-* [Project Unum](https://unum.cloud).
-* [C++ Armenia 🇦🇲](https://t.me/cpparm) club.
+* Founder of [Unum](https://unum.cloud).
+* Head of [C++ Armenia 🇦🇲](https://t.me/cpparm).
 
 ## My Lectures
 
