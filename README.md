@@ -24,12 +24,10 @@ I do all kinds of stuff, but mostly:
 * Founder of [Unum](https://unum.cloud).
 * Head of [C++ Armenia 🇦🇲](https://t.me/cpparm).
 
-## My Lectures
+## Links
 
-* Computational graphs and AI in C++ @ Synopsys HQ in Palo Alto, CA, USA. [GitHub](https://github.com/ashvardanian/NeuralSTL).
-* Efficient GPGPU Programming @ JetBrains HQ in St. Petersburg, Russia. [GitHub](https://github.com/ashvardanian/SandboxGPUs), [YouTube](https://youtu.be/BUtHOftDm_Y).
-* Deep dive into GPGPU programming @ CppRussia Conference in St. Petersburg, Russia. [GitHub](https://github.com/ashvardanian/SandboxGPUs), [YouTube](https://youtu.be/AA4RI6o0h1U).
-* Artsakh Must Be Independent. Yerevan, Armenia. [YouTube](https://youtu.be/sN8CsCgDlHY).
-* A conversation about High Performance Computing @ Pure Virtual Cast #4. [YouTube](https://youtu.be/dCdBFB4LDjw).
-* SIMD = Performance you have already paid for @ CppRussia Online. [GitHub](https://github.com/ashvardanian/CppBenchSubstrSearch), [Conference](https://cppconf-piter.ru/en/2020/spb/talks/23g3egeumhe3p4fd66pbar/?fbclid=IwAR26hl3tEhw1os0J6oLzsVPTOAuSGkZIMzwq689tEq8NH5_V7b3MHV8f_zU). [YouTube, Russian](https://youtu.be/6Sh9QWdzo58).
-* SIMD. From Basic Terminology To Frequency Scaling Licenses And Speculative Execution @ Armenian C++ Community Meetup #1. [GitHub](https://github.com/ashvardanian/CppBenchSubstrSearch), [Youtube](https://youtu.be/ft51yJ9mDcc?t=140).
+* List of my [lectures & talks](ashvardanian.com/about#my-talks) #cs #hpc #math
+* Some more lectures on [YouTube](youtube.com/channel/UCI7fuiwVwAtI_3I89BrT7qw)
+* [LinkedIn](linkedin.com/in/ashvardanian)
+* [Facebook](fb.com/ashvardanian)
+* [Twitter](twitter.com/ashvardanian)
