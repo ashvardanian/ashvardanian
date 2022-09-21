@@ -6,6 +6,11 @@ I do all kinds of stuff, but mostly:
 * High-Performance Computing and
 * Risky Investment Stretegies.
 
+## Current Activities
+
+* Founder of [Unum](https://unum.cloud).
+* Head of [C++ Armenia 🇦🇲](https://t.me/cpparm).
+
 ## My Timeline
 
 👶🏻 I wrote my first line of code in elementary school.<br/>
@@ -19,10 +24,6 @@ I do all kinds of stuff, but mostly:
 💻 These days, I code in C++ 20, CUDA 17, Python, and Assembly on x86/ARM.<br/>
 ❤️ Science, big servers & chess!<br/>
 
-## Current Activities
-
-* Founder of [Unum](https://unum.cloud).
-* Head of [C++ Armenia 🇦🇲](https://t.me/cpparm).
 
 ## Links
 
