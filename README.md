@@ -7,7 +7,7 @@
 * Fluent in English, Russian & Armenian.
 
 For the past 15 years, I have been coding mainly in C++, CUDA, Python, and Assembly on x86/ARM.<br/>
-I am on [LinkedIn](linkedin.com/in/ashvardanian), [Twitter](twitter.com/ashvardanian), [Facebook](fb.com/ashvardanian), and [YouTube](youtube.com/channel/UCI7fuiwVwAtI_3I89BrT7qw).
+I am on [LinkedIn](https://linkedin.com/in/ashvardanian), [Twitter](https://twitter.com/ashvardanian), [Facebook](https://fb.com/ashvardanian), and [YouTube](https://youtube.com/playlist?list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT).
 
 ## My Lectures
 
