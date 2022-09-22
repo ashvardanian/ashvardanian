@@ -6,8 +6,8 @@
 * Ex. Astrophysicist.
 * Fluent in English, Russian & Armenian.
 
-Since around age 14, I code mainly in C++, CUDA, Python, and Assembly on x86/ARM.<br/>
-I am on [LinkedIn](linkedin.com/in/ashvardanian), [Twitter](twitter.com/ashvardanian), [Facebook](fb.com/ashvardanian) and [YouTube](youtube.com/channel/UCI7fuiwVwAtI_3I89BrT7qw).
+For the past 15 years, I have been coding mainly in C++, CUDA, Python, and Assembly on x86/ARM.<br/>
+I am on [LinkedIn](linkedin.com/in/ashvardanian), [Twitter](twitter.com/ashvardanian), [Facebook](fb.com/ashvardanian), and [YouTube](youtube.com/channel/UCI7fuiwVwAtI_3I89BrT7qw).
 
 ## My Lectures
 
@@ -40,7 +40,7 @@ The 🗣️ talks aren't technical, and in the ones with a 👯‍♂️ - I am 
 
 * **SIMD = Performance you have already paid for** @ [CppRussia Conference](https://2020.cppconf-piter.ru/2020/spb/talks/23g3egeumhe3p4fd66pbar/). [GitHub](https://github.com/ashvardanian/CppBenchSubstrSearch). [YouTube](https://youtu.be/6Sh9QWdzo58). 🇷🇺
 * **SIMD. Frequency Scaling Licenses and Speculative Execution** @ CppArm Meetup #1. [GitHub](https://github.com/ashvardanian/CppBenchSubstrSearch), [Youtube](https://youtu.be/ft51yJ9mDcc?t=140).
-* A conversation about High Performance Computing @ Pure Virtual Cast #4. [YouTube](https://youtu.be/dCdBFB4LDjw). 🇷🇺
+* Conversing about High-Performance Computing @ Pure Virtual Cast #4. [YouTube](https://youtu.be/dCdBFB4LDjw). 🇷🇺
 * Artsakh Must Be Independent. [YouTube](https://youtu.be/sN8CsCgDlHY). 🗣️
 
 ### 2019
