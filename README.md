@@ -39,7 +39,7 @@ The 🗣️ talks aren't technical, and in the ones with a 👯‍♂️ - I am 
 ### 2020
 
 * **SIMD = Performance you have already paid for** @ [CppRussia Conference](https://2020.cppconf-piter.ru/2020/spb/talks/23g3egeumhe3p4fd66pbar/). [GitHub](https://github.com/ashvardanian/CppBenchSubstrSearch). [YouTube](https://youtu.be/6Sh9QWdzo58). 🇷🇺
-* **SIMD. From Basic Terminology To Frequency Scaling Licenses And Speculative Execution** @ CppArm Meetup #1. [GitHub](https://github.com/ashvardanian/CppBenchSubstrSearch), [Youtube](https://youtu.be/ft51yJ9mDcc?t=140).
+* **SIMD. Frequency Scaling Licenses and Speculative Execution** @ CppArm Meetup #1. [GitHub](https://github.com/ashvardanian/CppBenchSubstrSearch), [Youtube](https://youtu.be/ft51yJ9mDcc?t=140).
 * A conversation about High Performance Computing @ Pure Virtual Cast #4. [YouTube](https://youtu.be/dCdBFB4LDjw). 🇷🇺
 * Artsakh Must Be Independent. [YouTube](https://youtu.be/sN8CsCgDlHY). 🗣️
 
