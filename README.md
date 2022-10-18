@@ -20,6 +20,7 @@ The 🗣️ talks aren't technical, and in the ones with a 👯‍♂️ - I am 
 * **Accelerated Data Science Libraries** @ [PyData Conference](https://pydata.org/yerevan2022/). [YouTube](https://youtu.be/OxAKSVuW2Yk).
 * **3M: Prospects and Challenges with Multi-Modal Models** @ [DataFest Conference](https://datafest.am).
 * **Role of C++ in Machine Learning discussion** @ CppRussia. [YouTube](https://youtu.be/gO_bVvIN7HM). 🇷🇺
+* **Life Altering Technologies** @ [Global Innovation Forum](https://fast.foundation/gif/2022/). [YoutTube](https://www.youtube.com/watch?v=EBh9_7o31bI&t=24447s).
 * **Persistent Memory Technologies Overview** @ [AMD](https://amd.com) & [Xilinx](https://www.xilinx.com).
 * From OpenCL, Thrust & CUB to raw CUDA Kernels & SyCL @ CppArm Meetup #3. [GitHub](https://github.com/unum-cloud/ParallelReductions).
 * Fast Inference for Large Language Models with Vladimir Orshulevich @ PyData Meetup #2. [YouTube](https://youtu.be/tKwL-Q7INnQ). 👯‍♂️
