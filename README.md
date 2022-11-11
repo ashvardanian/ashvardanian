@@ -17,10 +17,10 @@ The 🗣️ talks aren't technical, and in the ones with a 👯‍♂️ - I am 
 
 ### 2022
 
-* **3M: Prospects and Challenges with Multi-Modal Artificial Intelligence Models** @ [DataFest Conference](https://datafest.am). [YouTube](https://youtu.be/p3RMkiqd7vY). [Slides](https://drive.google.com/file/d/166UgMRVM1ORJPWQ74oRc2UH-bKmPHbqI/view).
-* **Accelerated Data Science Libraries** @ [PyData Conference](https://pydata.org/yerevan2022/). [YouTube](https://youtu.be/OxAKSVuW2Yk). [Slides](https://drive.google.com/file/d/168_Ctx0n6Jtw7ufSlTL3skCZR--lw-C0/view)
+* **3M: Prospects and Challenges with Multi-Modal Models in AI Research** @ [DataFest](https://datafest.am). [YouTube](https://youtu.be/p3RMkiqd7vY). [Slides](https://drive.google.com/file/d/166UgMRVM1ORJPWQ74oRc2UH-bKmPHbqI/view).
+* **Accelerated Data Science Libraries** @ [PyData Conference](https://pydata.org/yerevan2022/). [YouTube](https://youtu.be/OxAKSVuW2Yk). [Slides](https://drive.google.com/file/d/168_Ctx0n6Jtw7ufSlTL3skCZR--lw-C0/view).
 * **Role of C++ in Machine Learning discussion** @ CppRussia. [YouTube](https://youtu.be/gO_bVvIN7HM). 🇷🇺
-* **Life Altering Technologies** @ [Global Innovation Forum](https://fast.foundation/gif/2022/). [YoutTube](https://www.youtube.com/watch?v=EBh9_7o31bI&t=24447s).
+* **Life Altering Technologies** @ [Global Innovation Forum](https://fast.foundation/gif/2022/). [YouTube](https://www.youtube.com/watch?v=EBh9_7o31bI&t=24447s).
 * **Persistent Memory Technologies Overview** @ [AMD](https://amd.com) & [Xilinx](https://www.xilinx.com).
 * From OpenCL, Thrust & CUB to raw CUDA Kernels & SyCL @ CppArm Meetup #3. [GitHub](https://github.com/unum-cloud/ParallelReductions).
 * Fast Inference for Large Language Models with Vladimir Orshulevich @ PyData Meetup #2. [YouTube](https://youtu.be/tKwL-Q7INnQ). 👯‍♂️
