@@ -1,7 +1,7 @@
 ### Hey, I'm Ash!
 
 * Founder of [Unum.cloud](https://unum.cloud).
-* Head of [C++ Armenia 🇦🇲](https://t.me/cpparm) community.
+* Head of [Armenias 🇦🇲 C++](https://t.me/cpparm) community.
 * Artificial Intelligence and Computer Science [researcher](https://github.com/unum-cloud).
 * Ex. Astrophysicist.
 * Fluent in English, Russian & Armenian.
