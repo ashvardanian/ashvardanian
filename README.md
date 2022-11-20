@@ -11,9 +11,9 @@ I am on [LinkedIn](https://linkedin.com/in/ashvardanian), [Twitter](https://twit
 
 ## My Lectures
 
-Most materials are in English unless "flagged" otherwise.
-The absolute majority is on the subjects of Systems Development, Computer Science, and Artificial Intelligence.
-The 🗣️ talks aren't technical, and in the ones with a 👯‍♂️ - I am just a wingman supporting another speaker.
+Most materials are in English unless ~~literally~~ flagged otherwise.
+The absolute majority is on the subjects of Systems Design, Computer Science, and Artificial Intelligence.
+The 🗣️ talking head links aren't technical, and in the ones with a 👯‍♂️ - I am just a wingman supporting another speaker.
 
 ### 2022
 
