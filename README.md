@@ -15,6 +15,48 @@ Most materials are in English unless ~~literally~~ flagged otherwise.
 The absolute majority is on the subjects of Systems Design, Computer Science, and Artificial Intelligence.
 The 🗣️ talking head links aren't technical, and in the ones with a 👯‍♂️ - I am just a wingman supporting another speaker.
 
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <a href="https://www.youtube.com/watch?v=p3RMkiqd7vY">
+          <img width=200 height=100 src="https://img.youtube.com/vi/p3RMkiqd7vY/0.jpg" alt="3M: Prospects and Challenges with Multi-Modal Models in AI Research">
+        </a><br/>
+        AI Research, Deep-Learning, Neural Networks, Multi-Modal Architectures, 
+        Contrastive Losses, Semantic Search, Quality of Embeddings, 
+        Lipshitz Constraints, Socratic Models
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://www.youtube.com/watch?v=OxAKSVuW2Yk">
+          <img width=200 height=100 src="https://img.youtube.com/vi/OxAKSVuW2Yk/0.jpg" alt="Accelerated Data Science Libraries">
+        </a><br/>
+        Python, Data-Science, GPUs, Rapids, Pandas vs cuDF, NetworkX vs cuGraph, NumPy vs CuPy,
+        Modin, Dask, Ray, PyTorch, Apache Arrow, BLAS, RetworkX
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://www.youtube.com/watch?v=6Sh9QWdzo58">
+          <img width=200 height=100 src="https://img.youtube.com/vi/6Sh9QWdzo58/0.jpg" alt="SIMD = Performance you have already paid for">
+        </a><br/>
+        C++, Assembly, x86 and Arm SIMD Instructions, Substring Search, Heuristics,
+        Speculative Execution, Branchless Computing, Frequency Scaling Licenses
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://www.youtube.com/watch?v=AA4RI6o0h1U">
+          <img width=200 height=100 src="https://img.youtube.com/vi/AA4RI6o0h1U/0.jpg" alt="Deep dive into GPGPU programming">
+        </a><br/>
+        General Purpose GPU Programming, OpenCL, CUDA, Vulkan, SyCL,
+        Hardware vs Logical Abstractions, Parallel Architectures and Algorithms
+      </div>
+    </td>
+  </tr>
+</table>
+
 ### 2022
 
 * **3M: Prospects and Challenges with Multi-Modal Models in AI Research** @ [DataFest](https://datafest.am). [YouTube](https://youtu.be/p3RMkiqd7vY). [Slides](https://drive.google.com/file/d/166UgMRVM1ORJPWQ74oRc2UH-bKmPHbqI/view).
@@ -39,7 +81,7 @@ The 🗣️ talking head links aren't technical, and in the ones with a 👯‍�
 
 ### 2020
 
-* **SIMD = Performance you have already paid for** @ [CppRussia Conference](https://2020.cppconf-piter.ru/2020/spb/talks/23g3egeumhe3p4fd66pbar/). [GitHub](https://github.com/ashvardanian/CppBenchSubstrSearch). [YouTube](https://youtu.be/6Sh9QWdzo58). [Slides](https://drive.google.com/file/d/16BsyqGWjpNfqG0vAb21l0eySbChC_njJ/view). 🇷🇺
+* **SIMD = Performance you have already paid for** @ [CppRussia Conference](https://2020.cppconf-piter.ru/2020/spb/talks/23g3egeumhe3p4fd66pbar/). [GitHub](https://github.com/ashvardanian/SubstringSearchBenchmark). [YouTube](https://youtu.be/6Sh9QWdzo58). [Slides](https://drive.google.com/file/d/16BsyqGWjpNfqG0vAb21l0eySbChC_njJ/view). 🇷🇺
 * **SIMD. Frequency Scaling Licenses and Speculative Execution** @ CppArm Meetup #1. [GitHub](https://github.com/ashvardanian/CppBenchSubstrSearch), [YouTube](https://youtu.be/ft51yJ9mDcc?t=140).
 * Conversing about High-Performance Computing @ Pure Virtual Cast #4. [YouTube](https://youtu.be/dCdBFB4LDjw). 🇷🇺
 * Artsakh Must Be Independent. [YouTube](https://youtu.be/sN8CsCgDlHY). 🗣️
