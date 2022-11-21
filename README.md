@@ -20,7 +20,7 @@ The 🗣️ talking head links aren't technical, and in the ones with a 👯‍�
     <td>
       <div align="center">
         <a href="https://www.youtube.com/watch?v=p3RMkiqd7vY">
-          <img width=200 height=100 src="https://img.youtube.com/vi/p3RMkiqd7vY/0.jpg" alt="3M: Prospects and Challenges with Multi-Modal Models in AI Research">
+          <img width=200 height=100 src="DataFest.png" alt="3M: Prospects and Challenges with Multi-Modal Models in AI Research">
         </a><br/>
         AI Research, Deep-Learning, Neural Networks, Multi-Modal Architectures, 
         Contrastive Losses, Semantic Search, Quality of Embeddings, 
@@ -30,7 +30,7 @@ The 🗣️ talking head links aren't technical, and in the ones with a 👯‍�
     <td>
       <div align="center">
         <a href="https://www.youtube.com/watch?v=OxAKSVuW2Yk">
-          <img width=200 height=100 src="https://img.youtube.com/vi/OxAKSVuW2Yk/0.jpg" alt="Accelerated Data Science Libraries">
+          <img width=200 height=100 src="PyData.png" alt="Accelerated Data Science Libraries">
         </a><br/>
         Python, Data-Science, GPUs, Rapids, Pandas vs cuDF, NetworkX vs cuGraph, NumPy vs CuPy,
         Modin, Dask, Ray, PyTorch, Apache Arrow, BLAS, RetworkX
@@ -39,7 +39,7 @@ The 🗣️ talking head links aren't technical, and in the ones with a 👯‍�
     <td>
       <div align="center">
         <a href="https://www.youtube.com/watch?v=6Sh9QWdzo58">
-          <img width=200 height=100 src="https://img.youtube.com/vi/6Sh9QWdzo58/0.jpg" alt="SIMD = Performance you have already paid for">
+          <img width=200 height=100 src="SIMD.png" alt="SIMD = Performance you have already paid for">
         </a><br/>
         C++, Assembly, x86 and Arm SIMD Instructions, Substring Search, Heuristics,
         Speculative Execution, Branchless Computing, Frequency Scaling Licenses
@@ -48,7 +48,7 @@ The 🗣️ talking head links aren't technical, and in the ones with a 👯‍�
     <td>
       <div align="center">
         <a href="https://www.youtube.com/watch?v=AA4RI6o0h1U">
-          <img width=200 height=100 src="https://img.youtube.com/vi/AA4RI6o0h1U/0.jpg" alt="Deep dive into GPGPU programming">
+          <img width=200 height=100 src="GPGPU.png" alt="Deep dive into GPGPU programming">
         </a><br/>
         General Purpose GPU Programming, OpenCL, CUDA, Vulkan, SyCL,
         Hardware vs Logical Abstractions, Parallel Architectures and Algorithms
