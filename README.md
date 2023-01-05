@@ -82,5 +82,5 @@ The 🗣️ talking head links aren't technical, and in the ones with a 👯‍�
 ### 2019
 
 * **Deep dive into GPGPU programming** @ [CppRussia Conference](https://cppconf-piter.ru/en/2020/spb/talks/23g3egeumhe3p4fd66pbar/?fbclid=IwAR26hl3tEhw1os0J6oLzsVPTOAuSGkZIMzwq689tEq8NH5_V7b3MHV8f_zU). [GitHub](https://github.com/ashvardanian/SandboxGPUs). [YouTube](https://youtu.be/AA4RI6o0h1U). [Slides](https://drive.google.com/file/d/16AicAl99t3ZZFnza04Wnw_Vuem0w8lc7/view).
-* **Computational graphs and AI in C++** @ [Synopsys](https://www.synopsys.com) HQ. [GitHub](https://github.com/ashvardanian/NeuralSTL).
+* **AI and Computational Graphs in C++** @ [CppBayArea](https://www.meetup.com/cpp-bay-area/events/261294493/) HQ. [GitHub](https://github.com/ashvardanian/NeuralSTL).
 * Efficient GPGPU Programming @ [JetBrains](https://www.jetbrains.com) HQ. [GitHub](https://github.com/ashvardanian/SandboxGPUs), [YouTube](https://youtu.be/BUtHOftDm_Y).
