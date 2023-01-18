@@ -17,34 +17,42 @@ The 🗣️ talking head links aren't technical, and in the ones with a 👯‍�
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top"  width=190>
       <a href="https://www.youtube.com/watch?v=ybWeUf_hC7o">
         <img width=177 height=100 src="UDisk.png" alt="Designing the fastest ACID Key-Value Store">
-      </a><br/>
+      </a>
+    </td>
+    <td valign="top">      
       Linux, mmap, io_uring, Intel SPDK, ACID transactions, Key Value Stores,
       UKV, LevelDB, RocksDB, UDisk, Log Structured Merge Trees
     </td>
-    <td valign="top">
+    <td valign="top" width=190>
       <a href="https://www.youtube.com/watch?v=AA4RI6o0h1U">
         <img width=177 height=100 src="GPGPU.png" alt="Deep dive into GPGPU programming">
-      </a><br/>
+      </a>
+    </td>
+    <td valign="top">
       General Purpose GPU Programming, OpenCL, CUDA, Vulkan, SyCL,
       Hardware vs Logical Abstractions, Parallel Algorithms
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" width=190>
       <a href="https://www.youtube.com/watch?v=p3RMkiqd7vY">
         <img width=177 height=100 src="DataFest.png" alt="3M: Prospects and Challenges with Multi-Modal Models in AI Research">
-      </a><br/>
+      </a>
+    </td>
+    <td valign="top">      
       AI Research, Neural Networks, Multi-Modal Architectures, 
       Contrastive Loss, Semantic Search, Embeddings, 
       Lipshitz Constraints, Socratic Models
     </td>
-    <td valign="top">
+    <td valign="top" width=190>
       <a href="https://www.youtube.com/watch?v=OxAKSVuW2Yk">
         <img width=177 height=100 src="PyData.png" alt="Accelerated Data Science Libraries">
-      </a><br/>
+      </a>
+    </td>
+    <td valign="top">
       Python, Data-Science, GPUs, Rapids, Pandas vs cuDF, NetworkX vs cuGraph, NumPy vs CuPy,
       Modin, Dask, Ray, PyTorch, Apache Arrow, BLAS, RetworkX
     </td>
