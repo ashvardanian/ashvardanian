@@ -59,6 +59,10 @@ The 🗣️ talking head links aren't technical, and in the ones with a 👯‍�
   </tr>
 </table>
 
+### 2023
+
+* Building AI While Embracing the Unorthodox @ [EVN Disrupt](https://evnreport.com/series-category/podcasts/evn-disrupt/) podcast. [YouTube](https://www.youtube.com/watch?v=mvpyJLW2lZI).
+
 ### 2022
 
 * **Designing the fastest ACID Key-Value Store** @ [Highload++](https://highload.am/2022/abstracts/9673). [YouTube](https://www.youtube.com/watch?v=ybWeUf_hC7o). [Slides](https://drive.google.com/file/d/16gdazzt9DTpCWPuXBAV2JSe1NW-Y7HvQ/view).
