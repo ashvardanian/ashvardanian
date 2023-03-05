@@ -1,9 +1,9 @@
 ### Hey, I'm Ash!
 
 * Founder of [Unum.cloud](https://unum.cloud).
-* Organizer of [Armenias 🇦🇲 C++](https://github.com/unum-cloud/cpparm) community.
-* Artificial Intelligence and Computer Science [researcher](https://github.com/unum-cloud).
-* Background in Astrophysics.
+* Artificial Intelligence and Computer Science researcher.
+* Organizer of [Armenia's 🇦🇲 C++](https://github.com/unum-cloud/cpparm) community.
+* Background in Astrophysics. 2x dropout.
 * Fluent in English, Russian & Armenian.
 
 For the past 15 years, I have been coding mainly in C++, CUDA, Python, and Assembly on x86/ARM.<br/>
