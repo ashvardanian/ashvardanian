@@ -4,6 +4,7 @@
 * Artificial Intelligence and Computer Science researcher.
 * Organizer of [Armenia's 🇦🇲 C++](https://github.com/unum-cloud/cpparm) community.
 * Background in Astrophysics. 2x dropout.
+* Invested in ½ of Forbes Cloud 100 IPOs.
 * Fluent in English, Russian & Armenian.
 
 For the past 15 years, I have been coding mainly in C++, CUDA, Python, and Assembly on x86/ARM.<br/>
