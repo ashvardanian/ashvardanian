@@ -3,7 +3,7 @@
 * Founder of [Unum.cloud](https://unum.cloud).
 * Organizer of [Armenias 🇦🇲 C++](https://github.com/unum-cloud/cpparm) community.
 * Artificial Intelligence and Computer Science [researcher](https://github.com/unum-cloud).
-* Ex. Astrophysicist.
+* Background in Astrophysics.
 * Fluent in English, Russian & Armenian.
 
 For the past 15 years, I have been coding mainly in C++, CUDA, Python, and Assembly on x86/ARM.<br/>
