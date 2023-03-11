@@ -10,6 +10,14 @@
 For the past 15 years, I have been coding mainly in C++, CUDA, Python, and Assembly on x86/ARM.<br/>
 I am on [LinkedIn](https://linkedin.com/in/ashvardanian), [Twitter](https://twitter.com/ashvardanian), [Facebook](https://fb.com/ashvardanian), and [YouTube](https://youtube.com/playlist?list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT).
 
+## HackerNews
+
+* [Up to 100x Faster FastAPI with simdjson and io_uring on Linux 5.19](https://news.ycombinator.com/item?id=35042316).
+* [Beating OpenAI CLIP with 100x less data and compute](https://news.ycombinator.com/item?id=34970045).
+* [Apple to Apple Comparison: M1 Max vs. Intel](https://news.ycombinator.com/item?id=29670624).
+* [Server Hardware Super-Cycle 2022](https://news.ycombinator.com/item?id=29954447).
+* [Failing to reach DDR4 bandwidth](https://news.ycombinator.com/item?id=30178764).
+
 ## My Lectures
 
 Most materials are in English unless ~~literally~~ flagged otherwise.
