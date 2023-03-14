@@ -2,7 +2,7 @@
 
 * Founder of [Unum.cloud](https://unum.cloud).
 * Artificial Intelligence and Computer Science researcher.
-* Organizer of [Armenia's 🇦🇲 C++](https://github.com/unum-cloud/cpparm) community.
+* Organizer of [Armenia's 🇦🇲 C++](https://github.com/cpp-armenia/meetings) community.
 * Background in Astrophysics. 2x dropout.
 * Invested in ½ of Forbes Cloud 100 IPOs.
 * Fluent in English, Russian & Armenian.
