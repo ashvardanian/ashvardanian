@@ -70,8 +70,8 @@ The 🗣️ talking head links aren't technical, and in the ones with a 👯‍�
 
 ### 2023
 
-* On deep tech startups and the development of the industry in Armenia @ [DigiTec](https://www.digitec.am/ashot-vardanian). [YouTube](https://youtube.com/watch?v=V3L-O_qv7uU).
-* Building AI While Embracing the Unorthodox @ [EVN Disrupt](https://evnreport.com/series-category/podcasts/evn-disrupt/) podcast. [YouTube](https://www.youtube.com/watch?v=mvpyJLW2lZI).
+* On deep tech startups and the development of the industry in Armenia @ [DigiTec](https://www.digitec.am/ashot-vardanian). [YouTube](https://youtube.com/watch?v=V3L-O_qv7uU). 🗣️
+* Building AI While Embracing the Unorthodox @ [EVN Disrupt](https://evnreport.com/series-category/podcasts/evn-disrupt/) podcast. [YouTube](https://www.youtube.com/watch?v=mvpyJLW2lZI). 🗣️
 
 ### 2022
 
