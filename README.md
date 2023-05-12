@@ -14,6 +14,7 @@ My handle is @ashvardanian on [LinkedIn](https://linkedin.com/in/ashvardanian), 
 
 - [Up to 100x Faster FastAPI with simdjson and io_uring on Linux 5.19](https://news.ycombinator.com/item?id=35042316).
 - [Beating OpenAI CLIP with 100x less data and compute](https://news.ycombinator.com/item?id=34970045).
+- [Abusing vector search for texts, maps, and chess](https://news.ycombinator.com/item?id=35887983).
 - [Apple to Apple Comparison: M1 Max vs. Intel](https://news.ycombinator.com/item?id=29670624).
 - [Server Hardware Super-Cycle 2022](https://news.ycombinator.com/item?id=29954447).
 - [Failing to reach DDR4 bandwidth](https://news.ycombinator.com/item?id=30178764).
