@@ -1,9 +1,9 @@
 # Hey, I'm Ash!
 
 - Founder of [Unum Cloud](https://unum.cloud).
-- Computer Science researcher with 0 publications 😅.
 - Organizer of [Armenia's 🇦🇲 C++](https://github.com/cpp-armenia/meetings) group.
-- Background in Astrophysics. 2x dropout.
+- Computer Science researcher with 0 publications 😅.
+- Background in Astrophysics. 2x dropout 🤦🤦.
 - Invested in ½ of Forbes Cloud 100 IPOs.
 - Fluent in English, Russian & Armenian.
 
