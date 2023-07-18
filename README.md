@@ -1,6 +1,6 @@
 # Hey, I'm Ash!
 
-- Founder of [Unum.cloud](https://unum.cloud).
+- Founder of [Unum Cloud](https://unum.cloud).
 - Computer Science researcher with 0 publications 😅.
 - Organizer of [Armenia's 🇦🇲 C++](https://github.com/cpp-armenia/meetings) group.
 - Background in Astrophysics. 2x dropout.
@@ -29,8 +29,8 @@ My handle is @ashvardanian on [LinkedIn](https://linkedin.com/in/ashvardanian), 
 <table>
   <tr>
     <td valign="top" width=190>
-      <a href="https://www.youtube.com/watch?v=p3RMkiqd7vY">
-        <img width=177 height=100 src="USearch.png" alt="Vector Search & Datbases at Scale">
+      <a href="https://www.youtube.com/watch?v=UMrhB3icP9w&t=65s">
+        <img width=177 height=100 src="USearch.png" alt="Vector Search & Databases at Scale">
       </a>
     </td>
     <td valign="top">      
