@@ -18,6 +18,7 @@ My handle is @ashvardanian on [LinkedIn](https://linkedin.com/in/ashvardanian), 
 - [Apple to Apple Comparison: M1 Max vs. Intel](https://news.ycombinator.com/item?id=29670624).
 - [Server Hardware Super-Cycle 2022](https://news.ycombinator.com/item?id=29954447).
 - [Failing to reach DDR4 bandwidth](https://news.ycombinator.com/item?id=30178764).
+- USearch: [v0.22](https://news.ycombinator.com/item?id=36942993).
 
 ## Materials
 
