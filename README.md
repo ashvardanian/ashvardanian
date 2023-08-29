@@ -2,13 +2,12 @@
 
 - Founder of [Unum Cloud](https://unum.cloud).
 - Organizer of [Armenia's 🇦🇲 C++](https://github.com/cpp-armenia/meetings) group.
-- Computer Science researcher with 0 publications 😅.
-- Background in Astrophysics. 2x dropout 🤦🤦.
+- CS researcher with 0 publications 😅.
+- 2x Astrophysics dropout 🤦🤦.
 - Invested in ½ of Forbes Cloud 100 IPOs.
 - Fluent in English, Russian & Armenian.
 
-For the past 15 years, I have been coding mainly in C++, CUDA, Python, and Assembly on x86/ARM.<br/>
-My handle is @ashvardanian on [LinkedIn](https://linkedin.com/in/ashvardanian), [Twitter](https://twitter.com/ashvardanian), [Facebook](https://fb.com/ashvardanian), and [YouTube](https://youtube.com/playlist?list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT).
+For the past 15 years, I have been coding mainly in C++, CUDA, Python, and Assembly on x86/ARM. My handle is @ashvardanian on [LinkedIn](https://linkedin.com/in/ashvardanian), [Twitter](https://twitter.com/ashvardanian), [Facebook](https://fb.com/ashvardanian), and [YouTube](https://youtube.com/playlist?list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT).
 
 ## HackerNews
 
@@ -18,6 +17,7 @@ My handle is @ashvardanian on [LinkedIn](https://linkedin.com/in/ashvardanian), 
 - [Apple to Apple Comparison: M1 Max vs. Intel](https://news.ycombinator.com/item?id=29670624).
 - [Server Hardware Super-Cycle 2022](https://news.ycombinator.com/item?id=29954447).
 - [Failing to reach DDR4 bandwidth](https://news.ycombinator.com/item?id=30178764).
+- StringZilla: [v1.1.0](https://news.ycombinator.com/item?id=37304306).
 - USearch: [v0.22](https://news.ycombinator.com/item?id=36942993).
 
 ## Materials
