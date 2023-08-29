@@ -4,7 +4,7 @@
 - Organizer of [Armenia's 🇦🇲 C++](https://github.com/cpp-armenia/meetings) group.
 - CS researcher with 0 publications 😅.
 - 2x Astrophysics dropout 🤦🤦.
-- Invested in ½ of Forbes Cloud 100 IPOs.
+- Investor in ½ of Forbes Cloud 100 companies.
 - Fluent in English, Russian & Armenian.
 
 For the past 15 years, I have been coding mainly in C++, CUDA, Python, and Assembly on x86/ARM. My handle is @ashvardanian on [LinkedIn](https://linkedin.com/in/ashvardanian), [Twitter](https://twitter.com/ashvardanian), [Facebook](https://fb.com/ashvardanian), and [YouTube](https://youtube.com/playlist?list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT).
