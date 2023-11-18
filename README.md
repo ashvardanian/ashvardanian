@@ -11,17 +11,8 @@ For the past 15 years, I have been coding mainly in C++, CUDA, Python, and optim
 
 [![GitHub Org's stars: unum-cloud](https://img.shields.io/github/stars/unum-cloud?style=social&label=Unum%20Stars)](https://github.com/unum-cloud)
 [![GitHub User's stars: ashvardanian](https://img.shields.io/github/stars/ashvardanian?style=social&label=Personal%20Stars)](https://github.com/ashvardanian)
-
-## HackerNews
-
-- [Up to 100x Faster FastAPI with simdjson and io_uring on Linux 5.19](https://news.ycombinator.com/item?id=35042316).
-- [Beating OpenAI CLIP with 100x less data and compute](https://news.ycombinator.com/item?id=34970045).
-- [Abusing vector search for texts, maps, and chess](https://news.ycombinator.com/item?id=35887983).
-- [Apple to Apple Comparison: M1 Max vs. Intel](https://news.ycombinator.com/item?id=29670624).
-- [Server Hardware Super-Cycle 2022](https://news.ycombinator.com/item?id=29954447).
-- [Failing to reach DDR4 bandwidth](https://news.ycombinator.com/item?id=30178764).
-- StringZilla: [v1.1.0](https://news.ycombinator.com/item?id=37304306).
-- USearch: [v0.22](https://news.ycombinator.com/item?id=36942993).
+[![USearch Python downloads](https://static.pepy.tech/personalized-badge/usearch?period=month&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20installs/month)](https://github.com/unum-cloud/usearch)
+[![SimSIMD Python downloads](https://static.pepy.tech/personalized-badge/simsimd?period=month&units=abbreviation&left_color=black&right_color=blue&left_text=SimSIMD%20Python%20installs/month)](https://github.com/ashvardanian/simsimd)
 
 ## Materials
 
