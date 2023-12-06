@@ -14,7 +14,7 @@ My handle is @ashvardanian on [LinkedIn](https://linkedin.com/in/ashvardanian), 
 [![GitHub User's stars: ashvardanian](https://img.shields.io/github/stars/ashvardanian?style=social&label=Personal%20Stars)](https://github.com/ashvardanian)
 [![USearch Python downloads](https://static.pepy.tech/personalized-badge/usearch?period=month&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20installs/month)](https://github.com/unum-cloud/usearch)
 [![SimSIMD Python downloads](https://static.pepy.tech/personalized-badge/simsimd?period=month&units=abbreviation&left_color=black&right_color=blue&left_text=SimSIMD%20Python%20installs/month)](https://github.com/ashvardanian/simsimd)
-![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/ashvardanian?label=HackerNews&link=https%3A%2F%2Fashvardanian.com%2Fabout%2F%23hackernews)
+[![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/ashvardanian?label=HackerNews)](https://ashvardanian.com/about#hackernews)
 
 
 ## Materials
