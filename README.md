@@ -1,13 +1,13 @@
 # Hey, I'm Ash!
 
-- Founder of [Unum Cloud](https://unum.cloud).
 - CS/AI researcher without publications.
 - 2x Astrophysics dropout.
 - Ex Investor - cloud and semiconductors.
 - Fluent in English, Russian & Armenian.
-- Prefer spaces over tabs, east-const, and procedural programming over object-oriented or functional.
+- Founder of [Unum Cloud](https://unum.cloud).
 
 For the past 15 years, I have been coding mainly in C++, CUDA, Python, and optimizing Assembly on x86/ARM.
+Prefer spaces over tabs, east-const, and procedural programming over object-oriented or functional.
 My handle is @ashvardanian on [LinkedIn](https://linkedin.com/in/ashvardanian), [Twitter](https://twitter.com/ashvardanian), [Facebook](https://fb.com/ashvardanian), and [YouTube](https://youtube.com/playlist?list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT).
 
 [![GitHub Org's stars: unum-cloud](https://img.shields.io/github/stars/unum-cloud?style=social&label=Unum%20Stars)](https://github.com/unum-cloud)
