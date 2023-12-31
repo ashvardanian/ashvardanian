@@ -10,10 +10,12 @@ For the past 15 years, I have been coding mainly in C++, CUDA, Python, and optim
 Prefer spaces over tabs, east-const, and procedural programming over object-oriented or functional.
 My handle is @ashvardanian on [LinkedIn](https://linkedin.com/in/ashvardanian), [Twitter](https://twitter.com/ashvardanian), [Facebook](https://fb.com/ashvardanian), and [YouTube](https://youtube.com/playlist?list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT).
 
+[![USearch Python installs](https://static.pepy.tech/personalized-badge/usearch?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20installs)](https://github.com/unum-cloud/usearch)
+[![UCall Python installs](https://static.pepy.tech/personalized-badge/ucall?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=UCall%20Python%20installs)](https://github.com/unum-cloud/ucall)
+[![SimSIMD Python installs](https://static.pepy.tech/personalized-badge/simsimd?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=SimSIMD%20Python%20installs)](https://github.com/ashvardanian/simsimd)
+[![StringZilla Python installs](https://static.pepy.tech/personalized-badge/stringzilla?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=StringZilla%20Python%20installs)](https://github.com/ashvardanian/stringzilla)
 [![GitHub Org's stars: unum-cloud](https://img.shields.io/github/stars/unum-cloud?style=social&label=Unum%20Stars)](https://github.com/unum-cloud)
 [![GitHub User's stars: ashvardanian](https://img.shields.io/github/stars/ashvardanian?style=social&label=Personal%20Stars)](https://github.com/ashvardanian)
-[![USearch Python downloads](https://static.pepy.tech/personalized-badge/usearch?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20downloads)](https://github.com/unum-cloud/usearch)
-[![SimSIMD Python downloads](https://static.pepy.tech/personalized-badge/simsimd?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=SimSIMD%20Python%20downloads)](https://github.com/ashvardanian/simsimd)
 [![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/ashvardanian?label=HackerNews)](https://ashvardanian.com/about#hackernews)
 
 ## Materials
