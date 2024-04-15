@@ -6,9 +6,10 @@
 - Fluent in English, Russian & Armenian.
 - Founder of [Unum Cloud](https://unum.cloud).
 
-For the past 15 years, I have been coding mainly in C++, CUDA, Python, and optimizing Assembly on x86/ARM.
+I spent most of the last 20 years writing code.
 Prefer spaces over tabs, east-const, and procedural programming over object-oriented or functional.
-My handle is @ashvardanian on [LinkedIn](https://linkedin.com/in/ashvardanian), [Twitter](https://twitter.com/ashvardanian), [Facebook](https://fb.com/ashvardanian), and [YouTube](https://youtube.com/playlist?list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT).
+Abstractions are evil.
+Assembly is nice.
 
 [![USearch Python installs](https://static.pepy.tech/personalized-badge/usearch?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20installs)](https://github.com/unum-cloud/usearch)
 [![UCall Python installs](https://static.pepy.tech/personalized-badge/ucall?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=UCall%20Python%20installs)](https://github.com/unum-cloud/ucall)
@@ -18,9 +19,12 @@ My handle is @ashvardanian on [LinkedIn](https://linkedin.com/in/ashvardanian), 
 [![GitHub User's stars: ashvardanian](https://img.shields.io/github/stars/ashvardanian?style=social&label=Personal%20Stars)](https://github.com/ashvardanian)
 [![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/ashvardanian?label=HackerNews)](https://ashvardanian.com/about#hackernews)
 
+My libraries have been ported to C, C++, CUDA, OpenCL, Rust, Objective-C, Swift, GoLang, Java, C#, Python, JavaScript, Lua, Wolfram, and other languages, and they run on 100M+ devices worldwide.
+If you want to get in touch and contribute - my handle is @ashvardanian on most platforms, including [Twitter](https://twitter.com/ashvardanian) and [LinkedIn](https://linkedin.com/in/ashvardanian).
+
 ## Materials
 
-- [Talks](https://ashvardanian.com/talks)
+- [Tech Talks](https://ashvardanian.com/talks)
 - [Personal Blog](https://ashvardanian.com/archives)
 - [Corporate Blog](https://www.unum.cloud/blog)
 
