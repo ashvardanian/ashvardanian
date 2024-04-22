@@ -1,7 +1,7 @@
 # Hey, I'm Ash!
 
-- CS/AI researcher without publications.
-- 2x Astrophysics dropout.
+- CS/AI researcher.
+- Trained in Astrophysics.
 - Ex Investor - cloud and semiconductors.
 - Fluent in English, Russian & Armenian.
 - Founder of [Unum Cloud](https://unum.cloud).
