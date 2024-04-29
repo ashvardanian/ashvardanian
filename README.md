@@ -1,15 +1,20 @@
 # Hey, I'm Ash!
 
+I am best known for designing search technologies deployed on hundreds of millions of devices, which power some of the largest tech companies, unicorns and decacorns, AI research labs, and defense and intelligence organizations worldwide.
+In short:
+
 - CS/AI researcher.
 - Trained in Astrophysics.
 - Ex Investor - cloud and semiconductors.
 - Fluent in English, Russian & Armenian.
-- Founder of [Unum Cloud](https://unum.cloud).
+- Building [Unum Cloud](https://unum.cloud) since 2015.
 
 I spent most of the last 20 years writing code.
+Mostly GPGPU and SIMD.
 Prefer spaces over tabs, east-const, and procedural programming over object-oriented or functional.
 Abstractions are evil.
 Assembly is nice.
+If you want to get in touch and contribute - my handle is @ashvardanian on most platforms, including [Twitter](https://twitter.com/ashvardanian) and [LinkedIn](https://linkedin.com/in/ashvardanian).
 
 [![USearch Python installs](https://static.pepy.tech/personalized-badge/usearch?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20installs)](https://github.com/unum-cloud/usearch)
 [![UCall Python installs](https://static.pepy.tech/personalized-badge/ucall?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=UCall%20Python%20installs)](https://github.com/unum-cloud/ucall)
@@ -19,8 +24,24 @@ Assembly is nice.
 [![GitHub User's stars: ashvardanian](https://img.shields.io/github/stars/ashvardanian?style=social&label=Personal%20Stars)](https://github.com/ashvardanian)
 [![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/ashvardanian?label=HackerNews)](https://ashvardanian.com/about#hackernews)
 
-My libraries have been ported to C, C++, CUDA, OpenCL, Rust, Objective-C, Swift, GoLang, Java, C#, Python, JavaScript, Lua, Wolfram, and other languages, and they run on 100M+ devices worldwide.
-If you want to get in touch and contribute - my handle is @ashvardanian on most platforms, including [Twitter](https://twitter.com/ashvardanian) and [LinkedIn](https://linkedin.com/in/ashvardanian).
+## Repositories
+
+I've designed and maintain the following libraries, datasets, and AI models:
+
+- StringZilla - fast strings processing library for C, C++, Rust, Python, and Swift, _replacing for GlibC and STL_
+- USearch - single-file search engine for C, C++, Rust, Swift, Go, Java, C#, Python, JavaScript..., _replacing FAISS_
+- UForm - small multimodal pre-trained AI models with SDKs for Python, JavaScript, and Swift, _replacing CLIP_
+- UCall - backend networking library for C and Python designed with efficient kernel bypass, _replacing FastAPI_
+- UStore - multimodal embedded database for C, C++, and Python designed around key-value stores
+- SimSIMD - fast vector-vector math library for C, Python, Rust, and JavaScript, _replacing BLAS level 1_
+- USearch-Molecules - 28 billion embeddings of small molecules for cheminformatics & pharma
+
+Other less interesting repos include:
+
+- ParallelReductionBenchmarks - GPGPU benchmarks for SyCL, CUDA, OpenCL, Vulkan, and other parallel tech
+- SwiftSemanticSearch - example of on-device real-time AI using UForm and USearch on iOS
+- BenchmarkingTutorial - C/C++ tutorial for performance-oriented programming using Google Benchmark
+- memchr_vs_stringzilla - Rust microbenchmark comparing StringZilla to the MemChr crate
 
 ## Materials
 
