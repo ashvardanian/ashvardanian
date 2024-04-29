@@ -28,7 +28,7 @@ If you want to get in touch and contribute - my handle is @ashvardanian on most 
 
 I've designed and maintain the following libraries, datasets, and AI models:
 
-- StringZilla - fast strings processing library for C, C++, Rust, Python, and Swift, _replacing for GlibC and STL_
+- StringZilla - fast strings processing library for C, C++, Rust, Python, and Swift, _replacing GlibC and STL_
 - USearch - single-file search engine for C, C++, Rust, Swift, Go, Java, C#, Python, JavaScript..., _replacing FAISS_
 - UForm - small multimodal pre-trained AI models with SDKs for Python, JavaScript, and Swift, _replacing CLIP_
 - UCall - backend networking library for C and Python designed with efficient kernel bypass, _replacing FastAPI_
