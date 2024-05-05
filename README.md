@@ -38,10 +38,12 @@ I've designed and maintain the following libraries, datasets, and AI models:
 
 Other less interesting repos include:
 
-- [ParallelReductionBenchmarks](https://github.com/ashvardanian/ParallelReductionBenchmarks) - GPGPU benchmarks for SyCL, CUDA, OpenCL, Vulkan, and other parallel tech
+- [ParallelReductionsBenchmark](https://github.com/ashvardanian/ParallelReductionsBenchmark) - GPGPU benchmarks for SyCL, CUDA, OpenCL, Vulkan, and other parallel tech
 - [SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - example of on-device real-time AI using UForm and USearch on iOS
 - [BenchmarkingTutorial](https://github.com/ashvardanian/BenchmarkingTutorial) - C/C++ tutorial for performance-oriented programming using Google Benchmark
 - [memchr_vs_stringzilla](https://github.com/ashvardanian/memchr_vs_stringzilla) - Rust micro-benchmark comparing StringZilla to the MemChr crate
+- [usearch-benchmarks](https://github.com/unum-cloud/usearch-benchmarks) - Billion-scale benchmarks against FAISS, Weaviate, Qdrant, etc.
+- [ucsb](https://github.com/unum-cloud/ucsb) - parallel benchmarks for ACID persistent key-value stores, like RocksDB
 
 ## Materials
 
@@ -50,9 +52,9 @@ Other less interesting repos include:
 - [Corporate Blog](https://www.unum.cloud/blog)
 
 Cherry picks:
+[![](https://img.shields.io/youtube/views/ybWeUf_hC7o?label=Designing%20the%20fastest%20ACID%20Key-Value%20Store%2C%202022)](https://www.youtube.com/watch?v=ybWeUf_hC7o&list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT)
+[![](https://img.shields.io/youtube/views/AA4RI6o0h1U?label=Dive%20into%20the%20general%20putposes%20GPU%20programming%2C%202019)](https://www.youtube.com/watch?v=AA4RI6o0h1U&list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT)
 [![](https://img.shields.io/youtube/views/PQKYc0zK0iU?label=Bird's%20Eye%20View%20of%20Open-Source%20AI%20Infrastructure%2C%202023)](https://www.youtube.com/watch?v=PQKYc0zK0iU&list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT&t=65s)
 [![](https://img.shields.io/youtube/views/UMrhB3icP9w?label=Vector%20Search%20and%20Databases%20at%20Scale%2C%202023)](https://www.youtube.com/watch?v=UMrhB3icP9w&list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT&t=65s)
 [![](https://img.shields.io/youtube/views/L9ELuU3GeNc?label=Fantastic%20Data%20Science%20Libraries%20and%20Where%20to%20Find%20Them%2C%202023)](https://www.youtube.com/watch?v=L9ELuU3GeNc&list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT)
-[![](https://img.shields.io/youtube/views/ybWeUf_hC7o?label=Designing%20the%20fastest%20ACID%20Key-Value%20Store%2C%202022)](https://www.youtube.com/watch?v=ybWeUf_hC7o&list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT)
-[![](https://img.shields.io/youtube/views/AA4RI6o0h1U?label=Dive%20into%20the%20general%20putposes%20GPU%20programming%2C%202019)](https://www.youtube.com/watch?v=AA4RI6o0h1U&list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT)
 
