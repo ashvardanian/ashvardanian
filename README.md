@@ -36,8 +36,9 @@ I've designed and maintain the following libraries, datasets, and AI models:
 - [SimSIMD](https://github.com/ashvardanian/SimSIMD) - fast vector-vector math library for C, Python, Rust, and JavaScript, _replacing BLAS level 1_
 - [USearch-Molecules](https://github.com/ashvardanian/USearch-Molecules) - 28 billion embeddings of small molecules for chem-informatics & pharma
 
-Other less interesting repos include:
+Smaller projects include:
 
+- [affine-gaps](https://github.com/ashvardanian/affine-gaps) - Less wrong local and global Gotoh sequence alignments in one NumBa Python file
 - [ParallelReductionsBenchmark](https://github.com/ashvardanian/ParallelReductionsBenchmark) - GPGPU benchmarks for SyCL, CUDA, OpenCL, Vulkan, and other parallel tech
 - [SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - example of on-device real-time AI using UForm and USearch on iOS
 - [BenchmarkingTutorial](https://github.com/ashvardanian/BenchmarkingTutorial) - C/C++ tutorial for performance-oriented programming using Google Benchmark
