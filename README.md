@@ -10,7 +10,7 @@ In short:
 - Building [Unum Cloud](https://unum.cloud) since 2015.
 
 I spent most of the last 20 years writing code.
-Mostly GPGPU and SIMD.
+Mostly __GPGPU and SIMD Assembly__.
 Prefer spaces over tabs, east-const, and procedural programming over object-oriented or functional.
 Abstractions are evil.
 Assembly is nice.
@@ -28,7 +28,7 @@ If you want to get in touch and contribute - my handle is @ashvardanian on most 
 
 I've designed and maintain the following libraries, datasets, and AI models:
 
-- [StringZilla](https://github.com/ashvardanian/StringZilla) - fast strings processing library for C, C++, Rust, Python, and Swift, _replacing GlibC and STL_
+- [StringZilla](https://github.com/ashvardanian/StringZilla) - faster strings with SIMD/SWAR for C, C++, Rust, Python, and Swift, _replacing GlibC and STL_
 - [USearch](https://github.com/unum-cloud/USearch) - single-file search engine for C, C++, Rust, Swift, Go, Java, C#, Python, JavaScript..., _replacing FAISS_
 - [UForm](https://github.com/unum-cloud/UForm) - small multimodal pre-trained AI models with SDKs for Python, JavaScript, and Swift, _replacing CLIP_
 - [UCall](https://github.com/unum-cloud/UCall) - backend networking library for C and Python designed with efficient kernel bypass, _replacing FastAPI_
