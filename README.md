@@ -36,7 +36,7 @@ I've designed and maintain the following libraries, datasets, and AI models:
 - [UStore](https://github.com/unum-cloud/UStore) - multimodal embedded database for C, C++, and Python designed around key-value stores
 - [USearch-Molecules](https://github.com/ashvardanian/USearch-Molecules) - 28 billion embeddings of small molecules for chem-informatics & pharma
 
-Smaller projects include:
+Micro repositories:
 
 - [affine-gaps](https://github.com/ashvardanian/affine-gaps) - Less wrong local and global Gotoh sequence alignments in one NumBa Python file
 - [TinySemVer](https://github.com/ashvardanian/tinysemver) - Semantic versioning GitHub CI tool that doesn't take 300K lines of JavaScript
@@ -46,6 +46,8 @@ Smaller projects include:
 - [memchr_vs_stringzilla](https://github.com/ashvardanian/memchr_vs_stringzilla) - Rust micro-benchmark comparing StringZilla to the MemChr crate
 - [usearch-benchmarks](https://github.com/unum-cloud/usearch-benchmarks) - Billion-scale benchmarks against FAISS, Weaviate, Qdrant, etc.
 - [ucsb](https://github.com/unum-cloud/ucsb) - parallel benchmarks for ACID persistent key-value stores, like RocksDB
+- [cuda-python-starter-kit](https://github.com/ashvardanian/cuda-python-starter-kit) - starter kit for CUDA-accelerated Python packages without CMake
+- [scaling-democracy](https://github.com/ashvardanian/scaling-democracy) - combinatorial voting method implemented in CUDA for H100 GPUs
 
 ## Materials
 
