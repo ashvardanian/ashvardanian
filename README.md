@@ -4,10 +4,10 @@ I am best known for designing search technologies deployed on hundreds of millio
 In short:
 
 - CS/AI researcher.
-- Trained in Astrophysics.
-- Ex Investor - cloud and semiconductors.
-- Fluent in English, Russian & Armenian.
-- Building [Unum Cloud](https://unum.cloud) since 2015.
+- Astrophysics dropout.
+- Ex Investor: cloud & semiconductors.
+- Fluent in English, Russian, & Armenian.
+- Building the [Unum](https://unum.cloud) AI infra project since 2015.
 
 I spent most of the last 20 years writing code.
 Mostly __GPGPU and SIMD Assembly__.
