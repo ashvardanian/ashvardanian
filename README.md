@@ -29,9 +29,9 @@ If you want to get in touch and contribute - my handle is @ashvardanian on most 
 I've designed and maintain the following libraries, datasets, and AI models:
 
 - [StringZilla](https://github.com/ashvardanian/StringZilla) - faster strings with SIMD/SWAR for C, C++, Rust, Python, and Swift, _replacing GlibC and STL_
-- [USearch](https://github.com/unum-cloud/USearch) - single-file search engine for C, C++, Rust, Swift, Go, Java, C#, Python, JavaScript..., _replacing FAISS_
-- [UForm](https://github.com/unum-cloud/UForm) - small multimodal pre-trained AI models with SDKs for Python, JavaScript, and Swift, _replacing CLIP_
-- [UCall](https://github.com/unum-cloud/UCall) - backend networking library for C and Python designed with efficient kernel bypass, _replacing FastAPI_
+- [USearch](https://github.com/unum-cloud/USearch) - single-file search engine for C, C++, Rust, Swift, Go, Java, C#, Python, JS..., _replacing FAISS_
+- [UForm](https://github.com/unum-cloud/UForm) - small multimodal pre-trained AI models with SDKs for Python, JS, and Swift, _replacing CLIP_
+- [UCall](https://github.com/unum-cloud/UCall) - networking server library for C and Python designed for Linux kernel bypass, _replacing FastAPI_
 - [SimSIMD](https://github.com/ashvardanian/SimSIMD) - fast vector-vector math library for C, Python, Rust, and JavaScript, _replacing BLAS level 1_
 - [UStore](https://github.com/unum-cloud/UStore) - multimodal embedded database for C, C++, and Python designed around key-value stores
 - [USearch-Molecules](https://github.com/ashvardanian/USearch-Molecules) - 28 billion embeddings of small molecules for chem-informatics & pharma
@@ -40,7 +40,7 @@ Micro repositories:
 
 - [affine-gaps](https://github.com/ashvardanian/affine-gaps) - Less wrong local and global Gotoh sequence alignments in one NumBa Python file
 - [TinySemVer](https://github.com/ashvardanian/tinysemver) - Semantic versioning GitHub CI tool that doesn't take 300K lines of JavaScript
-- [ParallelReductionsBenchmark](https://github.com/ashvardanian/ParallelReductionsBenchmark) - GPGPU benchmarks for SyCL, CUDA, OpenCL, Vulkan, and other parallel tech
+- [ParallelReductionsBenchmark](https://github.com/ashvardanian/ParallelReductionsBenchmark) - GPGPU benchmarks for SyCL, CUDA, OpenCL, Vulkan, etc.
 - [SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - example of on-device real-time AI using UForm and USearch on iOS
 - [BenchmarkingTutorial](https://github.com/ashvardanian/BenchmarkingTutorial) - C/C++ tutorial for performance-oriented programming using Google Benchmark
 - [memchr_vs_stringzilla](https://github.com/ashvardanian/memchr_vs_stringzilla) - Rust micro-benchmark comparing StringZilla to the MemChr crate
