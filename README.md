@@ -1,6 +1,6 @@
 # Hey, I'm Ash!
 
-I am best known for designing search technologies deployed on hundreds of millions of devices, which power some of the largest tech companies, unicorns and decacorns, AI research labs, and defense and intelligence organizations worldwide.
+I've designed Search & AI infra software deployed on hundreds of millions of devices, which power some of the largest tech companies, unicorns and decacorns, AI research labs, and defense and intelligence organizations worldwide.
 In short:
 
 - CS/AI researcher.
@@ -10,10 +10,20 @@ In short:
 - Building the [Unum](https://unum.cloud) AI infra project since 2015.
 
 I spent most of the last 20 years writing code.
-Mostly __GPGPU and SIMD Assembly__.
-Prefer spaces over tabs, east-const, and procedural programming over object-oriented or functional.
-Abstractions are evil.
-Assembly is nice.
+Mostly __GPGPU, SIMD Assembly, userspace storage drivers, and networking protocols__.
+I strongly believe, that:
+
+- procedural programming eats object-oriented for breakfast,
+- less code is better than more code,
+- abstractions are evil,
+- infrastructure is fun,
+- spaces are better than tabs,
+- east-const rules over west-const in C/C++,
+- good is the enemy of great – elegant code is better than working code,
+- matrix multiplications are beautiful, but everyone cooks them wrong,
+- AI is the future, LLMs are not AI, transformers can't die cause they were dead on arrival,
+- a single developer can beat a trillion-dollar company in almost everything.
+
 If you want to get in touch and contribute - my handle is @ashvardanian on most platforms, including [Twitter](https://twitter.com/ashvardanian) and [LinkedIn](https://linkedin.com/in/ashvardanian).
 
 [![USearch Python installs](https://static.pepy.tech/personalized-badge/usearch?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20installs)](https://github.com/unum-cloud/usearch)
