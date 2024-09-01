@@ -18,7 +18,7 @@ I strongly believe, that:
 - abstractions are evil,
 - infrastructure is fun,
 - spaces are better than tabs,
-- east-const rules over west-const in C/C++,
+- east-`const` rules over `const`-west in C/C++,
 - good is the enemy of great – elegant code is better than working code,
 - matrix multiplications are beautiful, but everyone cooks them wrong,
 - AI is the future, LLMs are not AI, transformers can't die cause they were dead on arrival,
