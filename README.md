@@ -14,14 +14,17 @@ Mostly __GPGPU, SIMD Assembly, userspace storage drivers, and networking protoco
 I strongly believe, that:
 
 - procedural programming eats object-oriented for breakfast,
-- less code is better than more code,
-- abstractions are evil,
+- abstractions are mostly evil, they are never zero-cost,
 - infrastructure is fun,
-- spaces are better than tabs,
-- east-`const` rules over `const`-west in C/C++,
+- less code is better than more code,
+- east-`const` is superior to `const`-west in C/C++,
+- `goto` is a blessing, not a curse,
 - good is the enemy of great – elegant code is better than working code,
-- matrix multiplications are beautiful, but everyone cooks them wrong,
-- AI is the future, LLMs are not AI, transformers can't die cause they were dead on arrival,
+- the future of AI is amazing, and it's not LLMs or transformers,
+- matrix multiplications are testy, but literally everyone cooks them wrong,
+- companies grow faster than people,
+- pivots are the plague of Silicon Valley,
+- talent, ambition, and dedication are much more important than material resources,
 - a single developer can beat a trillion-dollar company in almost everything.
 
 If you want to get in touch and contribute - my handle is @ashvardanian on most platforms, including [Twitter](https://twitter.com/ashvardanian) and [LinkedIn](https://linkedin.com/in/ashvardanian).
