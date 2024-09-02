@@ -24,6 +24,7 @@ I strongly believe, that:
 - matrix multiplications are testy, but literally everyone cooks them wrong,
 - companies grow faster than people,
 - pivots are the plague of Silicon Valley,
+- hard things are easy, and easy things are hard,
 - talent, ambition, and dedication are much more important than material resources,
 - a single developer can beat a trillion-dollar company in almost everything.
 
