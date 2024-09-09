@@ -21,7 +21,7 @@ I strongly believe, that:
 - `goto` is a blessing, not a curse,
 - good is the enemy of great – elegant code is better than working code,
 - the future of AI is amazing, and it's not LLMs or transformers,
-- matrix multiplications are testy, but literally everyone cooks them wrong,
+- matrix multiplications are tasty, but literally everyone cooks them wrong,
 - companies grow faster than people,
 - pivots are the plague of Silicon Valley,
 - hard things are easy, and easy things are hard,
