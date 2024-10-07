@@ -5,9 +5,10 @@ In short:
 
 - CS/AI researcher.
 - Astrophysics dropout.
-- Ex Investor: cloud & semiconductors.
+- Nomad, somewhat digital.
+- Building the [Unum](https://unum.cloud) since 2015.
+- Investing in deep-tech, cloud, & semiconductors.
 - Fluent in English, Russian, & Armenian.
-- Building the [Unum](https://unum.cloud) AI infra project since 2015.
 
 I spent most of the last 20 years writing code.
 Mostly __GPGPU, SIMD Assembly, userspace storage drivers, and networking protocols__.
