@@ -26,10 +26,13 @@ I strongly believe, that:
 - companies grow faster than people,
 - pivots are the plague of Silicon Valley,
 - hard things are easy, and easy things are hard,
+- how you do one thing - is how you do every thing,
 - talent, ambition, and dedication are much more important than material resources,
 - a single developer can beat a trillion-dollar company in almost everything.
 
-If you want to get in touch and contribute - my handle is @ashvardanian on most platforms, including [Twitter](https://twitter.com/ashvardanian) and [LinkedIn](https://linkedin.com/in/ashvardanian).
+If you want to get in touch and contribute - my handle is @ashvardanian on most platforms, including [Twitter/X](https://twitter.com/ashvardanian) and [LinkedIn](https://linkedin.com/in/ashvardanian).
+If you need funding for something deeply technical - ping me at ash@aloniq.com and ash@aal.vc.
+I value a codebase no less than a pitch deck 🤗
 
 [![USearch Python installs](https://static.pepy.tech/personalized-badge/usearch?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20installs)](https://github.com/unum-cloud/usearch)
 [![UCall Python installs](https://static.pepy.tech/personalized-badge/ucall?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=UCall%20Python%20installs)](https://github.com/unum-cloud/ucall)
