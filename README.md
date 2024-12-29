@@ -54,6 +54,9 @@ I've designed and maintain the following libraries, datasets, and AI models:
 
 Micro repositories:
 
+- [less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - educational microbenchmarks to help form a performance oriented mindset in C++
+  - [less_slow.rs](https://github.com/ashvardanian/less_slow.rs) - Rust adaptation with a focus on higher-level abstractions
+  - [less_slow.py](https://github.com/ashvardanian/less_slow.py) - Python adaptation with a focus on scripting & data-management
 - [USearch-Molecules](https://github.com/ashvardanian/USearch-Molecules) - 28 billion embeddings - one of the largest datasets in Computational Chemistry
 - [UStore](https://github.com/unum-cloud/UStore) - multimodal embedded database for C, C++, and Python designed around key-value stores
 - [SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - example of on-device real-time AI using UForm and USearch on iOS
@@ -61,7 +64,6 @@ Micro repositories:
 - [TinySemVer](https://github.com/ashvardanian/tinysemver) - Semantic versioning GitHub CI tool that doesn't take 300K lines of JavaScript
 - [affine-gaps](https://github.com/ashvardanian/affine-gaps) - Less wrong local and global Gotoh sequence alignments in one NumBa Python file
 - [ParallelReductionsBenchmark](https://github.com/ashvardanian/ParallelReductionsBenchmark) - GPGPU benchmarks for SyCL, CUDA, OpenCL, Vulkan, etc.
-- [BenchmarkingTutorial](https://github.com/ashvardanian/BenchmarkingTutorial) - C/C++ tutorial for performance-oriented programming using Google Benchmark
 - [memchr_vs_stringzilla](https://github.com/ashvardanian/memchr_vs_stringzilla) - Rust micro-benchmark comparing StringZilla to the MemChr crate
 - [usearch-benchmarks](https://github.com/unum-cloud/usearch-benchmarks) - Billion-scale Vector Search benchmarks against FAISS, Weaviate, Qdrant, etc.
 - [ucsb](https://github.com/unum-cloud/ucsb) - parallel benchmarks for ACID persistent key-value stores, like RocksDB
