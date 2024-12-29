@@ -60,7 +60,7 @@ Micro repositories:
 - [USearch-Molecules](https://github.com/ashvardanian/USearch-Molecules) - 28 billion embeddings - one of the largest datasets in Computational Chemistry
 - [UStore](https://github.com/unum-cloud/UStore) - multimodal embedded database for C, C++, and Python designed around key-value stores
 - [SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - example of on-device real-time AI using UForm and USearch on iOS
-- [cpp-cuda-python-starter-kit](https://github.com/ashvardanian/cpp-cuda-python-starter-kit) - C++ and CUDA starter kit for Python developers
+- [cpp-cuda-python-starter-kit](https://github.com/ashvardanian/cpp-cuda-python-starter-kit) - C++ and CUDA starter kit for Python developers avoiding CMake
 - [TinySemVer](https://github.com/ashvardanian/tinysemver) - Semantic versioning GitHub CI tool that doesn't take 300K lines of JavaScript
 - [affine-gaps](https://github.com/ashvardanian/affine-gaps) - Less wrong local and global Gotoh sequence alignments in one NumBa Python file
 - [ParallelReductionsBenchmark](https://github.com/ashvardanian/ParallelReductionsBenchmark) - GPGPU benchmarks for SyCL, CUDA, OpenCL, Vulkan, etc.
