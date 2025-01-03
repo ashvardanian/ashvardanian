@@ -68,6 +68,7 @@ Micro repositories:
 - [usearch-benchmarks](https://github.com/unum-cloud/usearch-benchmarks) - Billion-scale Vector Search benchmarks against FAISS, Weaviate, Qdrant, etc.
 - [ucsb](https://github.com/unum-cloud/ucsb) - parallel benchmarks for ACID persistent key-value stores, like RocksDB
 - [scaling-democracy](https://github.com/ashvardanian/scaling-democracy) - combinatorial voting method implemented in CUDA for H100 GPUs
+- [LibSee](https://github.com/ashvardanian/libsee) - non-intrusively profiling LibC calls with `LD_PRELOAD` tricks
 
 ## Materials
 
