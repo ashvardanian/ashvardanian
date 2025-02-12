@@ -5,10 +5,10 @@ In short:
 
 - CS/AI researcher.
 - Astrophysics dropout.
-- Nomad, somewhat digital.
 - Building the [Unum](https://unum.cloud) since 2015.
 - Investing in deep-tech, cloud, & semiconductors.
 - Fluent in English, Russian, & Armenian.
+- Lived in 12 countries on 4 continents.
 
 I spent most of the last 20 years writing code.
 Mostly __GPGPU, SIMD Assembly, userspace storage drivers, and networking protocols__.
@@ -25,7 +25,7 @@ I strongly believe that:
 - matrix multiplications are tasty, but literally everyone cooks them wrong,
 - companies grow faster than people,
 - pivots are the plague of Silicon Valley,
-- hard things are easy, and easy things are hard,
+- almost all "tech companies" are not tech companies,
 - how you do one thing - is how you do everything,
 - talent, ambition, and dedication are much more important than material resources,
 - a single developer can beat a trillion-dollar company in almost everything.
@@ -54,7 +54,7 @@ I've designed and still maintain the following libraries, datasets, and AI model
 
 Micro repositories:
 
-- [less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - educational microbenchmarks to help form a performance oriented mindset in C++
+- [less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - teaches a performance oriented mindset for C++, CUDA, PTX, and ASM
   - [less_slow.rs](https://github.com/ashvardanian/less_slow.rs) - Rust adaptation with a focus on higher-level abstractions
   - [less_slow.py](https://github.com/ashvardanian/less_slow.py) - Python adaptation with a focus on scripting & data-management
 - [USearch-Molecules](https://github.com/ashvardanian/USearch-Molecules) - 28 billion embeddings - one of the largest datasets in Computational Chemistry
