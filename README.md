@@ -1,4 +1,4 @@
-# Hey, I'm Ash!
+# Hey, I’m Ash, and I Build Infra at Scale
 
 I've designed Search & AI infra software deployed on hundreds of millions of devices, which power some of the largest tech companies, unicorns and decacorns, AI research labs, and defense and intelligence organizations worldwide.
 In short:
@@ -12,10 +12,10 @@ In short:
 
 I spent most of the last 20 years writing code.
 Mostly __GPGPU, SIMD Assembly, userspace storage drivers, and networking protocols__.
-I strongly believe, that:
+I strongly believe that:
 
 - procedural programming eats object-oriented for breakfast,
-- abstractions are mostly evil, they are never zero-cost,
+- abstractions are mostly evil; they are never zero-cost,
 - infrastructure is fun,
 - less code is better than more code,
 - east-`const` is superior to `const`-west in C/C++,
@@ -26,7 +26,7 @@ I strongly believe, that:
 - companies grow faster than people,
 - pivots are the plague of Silicon Valley,
 - hard things are easy, and easy things are hard,
-- how you do one thing - is how you do every thing,
+- how you do one thing - is how you do everything,
 - talent, ambition, and dedication are much more important than material resources,
 - a single developer can beat a trillion-dollar company in almost everything.
 
@@ -44,7 +44,7 @@ I value a codebase no less than a pitch deck 🤗
 
 ## Repositories
 
-I've designed and maintain the following libraries, datasets, and AI models:
+I've designed and still maintain the following libraries, datasets, and AI models:
 
 - [StringZilla](https://github.com/ashvardanian/StringZilla) - faster strings with SIMD/SWAR for C, C++, Rust, Python, and Swift, _replacing GlibC and STL_
 - [USearch](https://github.com/unum-cloud/USearch) - single-file search engine for C, C++, Rust, Swift, Go, Java, C#, Python, JS..., _replacing FAISS_
@@ -60,7 +60,7 @@ Micro repositories:
 - [USearch-Molecules](https://github.com/ashvardanian/USearch-Molecules) - 28 billion embeddings - one of the largest datasets in Computational Chemistry
 - [UStore](https://github.com/unum-cloud/UStore) - multimodal embedded database for C, C++, and Python designed around key-value stores
 - [SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - example of on-device real-time AI using UForm and USearch on iOS
-- [cpp-cuda-python-starter-kit](https://github.com/ashvardanian/cpp-cuda-python-starter-kit) - C++ and CUDA starter kit for Python developers avoiding CMake
+- [cuda-python-starter-kit](https://github.com/ashvardanian/cuda-python-starter-kit) - C++ and CUDA starter kit for Python developers avoiding CMake
 - [TinySemVer](https://github.com/ashvardanian/tinysemver) - Semantic versioning GitHub CI tool that doesn't take 300K lines of JavaScript
 - [affine-gaps](https://github.com/ashvardanian/affine-gaps) - Less wrong local and global Gotoh sequence alignments in one NumBa Python file
 - [ParallelReductionsBenchmark](https://github.com/ashvardanian/ParallelReductionsBenchmark) - GPGPU benchmarks for SyCL, CUDA, OpenCL, Vulkan, etc.
