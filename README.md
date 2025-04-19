@@ -1,34 +1,11 @@
-# Hey, I’m Ash, and I Build Infra at Scale
-
-I've designed Search & AI infra software deployed on hundreds of millions of devices, which power some of the largest tech companies, unicorns and decacorns, AI research labs, and defense and intelligence organizations worldwide.
-In short:
+# Hey, I’m Ash, and I Love Building Infra
 
 - CS/AI researcher.
 - Astrophysics dropout.
-- Building the [Unum](https://unum.cloud) since 2015.
+- Building [Unum](https://unum.cloud) since 2015.
 - Investing in deep-tech, cloud, & semiconductors.
-- Fluent in English, Russian, & Armenian.
+- Speak English, Russian, & Armenian.
 - Lived in 12 countries on 4 continents.
-
-I spent most of the last 20 years writing code.
-Mostly __GPGPU, SIMD Assembly, userspace storage drivers, and networking protocols__.
-I strongly believe that:
-
-- procedural programming eats object-oriented for breakfast,
-- abstractions are mostly evil; they are never zero-cost,
-- infrastructure is fun,
-- less code is better than more code,
-- east-`const` is superior to `const`-west in C/C++,
-- `goto` is a blessing, not a curse,
-- good is the enemy of great – elegant code is better than working code,
-- the future of AI is amazing, and it's not LLMs or transformers,
-- matrix multiplications are tasty, but literally everyone cooks them wrong,
-- companies grow faster than people,
-- pivots are the plague of Silicon Valley,
-- almost all "tech companies" are not tech companies,
-- how you do one thing - is how you do everything,
-- talent, ambition, and dedication are much more important than material resources,
-- a single developer can beat a trillion-dollar company in almost everything.
 
 If you want to get in touch and contribute - my handle is @ashvardanian on most platforms, including [Twitter/X](https://twitter.com/ashvardanian) and [LinkedIn](https://linkedin.com/in/ashvardanian).
 If you need funding for something deeply technical - ping me at ash@aloniq.com and ash@aal.vc.
@@ -44,15 +21,13 @@ I value a codebase no less than a pitch deck 🤗
 
 ## Repositories
 
-I've designed and still maintain the following libraries, datasets, and AI models:
-
 - [StringZilla](https://github.com/ashvardanian/StringZilla) - faster strings with SIMD/SWAR for C, C++, Rust, Python, and Swift, _replacing GlibC and STL_
 - [USearch](https://github.com/unum-cloud/USearch) - single-file search engine for C, C++, Rust, Swift, Go, Java, C#, Python, JS..., _replacing FAISS_
 - [UForm](https://github.com/unum-cloud/UForm) - small multimodal pre-trained AI models with SDKs for Python, JS, and Swift, _replacing CLIP_
 - [UCall](https://github.com/unum-cloud/UCall) - networking server library for C and Python designed for Linux kernel bypass, _replacing FastAPI_
 - [SimSIMD](https://github.com/ashvardanian/SimSIMD) - fast vector-vector math library for C, Python, Rust, and JavaScript, _replacing BLAS level 1_
 
-Micro repositories:
+Smaller ones:
 
 - [less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - teaches a performance oriented mindset for C++, CUDA, PTX, and ASM
   - [less_slow.rs](https://github.com/ashvardanian/less_slow.rs) - Rust adaptation with a focus on higher-level abstractions
