@@ -6,27 +6,26 @@
 - Investing in deep-tech, cloud, & semiconductors.
 - Love organizing hackathons & meetups.
 - Speak English, Russian, & Armenian.
-- Lived in 12 countries on 4 continents.
+- Living between 🇺🇸🇬🇧🇷🇺🇦🇲 & 🇲🇽🇵🇦🇦🇷🇩🇪🇦🇪🇹🇭🇲🇾🇻🇳🇮🇩.
 
 Want to chat?
 I'm ashvardanian on most platforms, including [Twitter/X](https://twitter.com/ashvardanian) and [LinkedIn](https://linkedin.com/in/ashvardanian).
 If you're looking for Venture Capital for something deeply technical or scientific – feel free to send links or materials ash@aloniq.com and ash@aal.vc 🤗
 
-[![USearch Python installs](https://static.pepy.tech/personalized-badge/usearch?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20installs)](https://github.com/unum-cloud/usearch)
-[![UCall Python installs](https://static.pepy.tech/personalized-badge/ucall?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=UCall%20Python%20installs)](https://github.com/unum-cloud/ucall)
-[![SimSIMD Python installs](https://static.pepy.tech/personalized-badge/simsimd?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=SimSIMD%20Python%20installs)](https://github.com/ashvardanian/simsimd)
-[![StringZilla Python installs](https://static.pepy.tech/personalized-badge/stringzilla?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=StringZilla%20Python%20installs)](https://github.com/ashvardanian/stringzilla) <br/>
 [![GitHub Org's stars: unum-cloud](https://img.shields.io/github/stars/unum-cloud?style=social&label=Unum%20Stars)](https://github.com/unum-cloud)
 [![GitHub User's stars: ashvardanian](https://img.shields.io/github/stars/ashvardanian?style=social&label=Personal%20Stars)](https://github.com/ashvardanian)
-[![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/ashvardanian?label=HackerNews)](https://ashvardanian.com/about#hackernews)
+[![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/ashvardanian?label=HackerNews)](https://ashvardanian.com/about#hackernews) <br/>
+[![USearch Python installs](https://static.pepy.tech/personalized-badge/usearch?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20installs)](https://github.com/unum-cloud/usearch)
+[![SimSIMD Python installs](https://static.pepy.tech/personalized-badge/simsimd?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=SimSIMD%20Python%20installs)](https://github.com/ashvardanian/simsimd)
+[![StringZilla Python installs](https://static.pepy.tech/personalized-badge/stringzilla?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=StringZilla%20Python%20installs)](https://github.com/ashvardanian/stringzilla)
 
 ## Repositories
 
-- [USearch](https://github.com/unum-cloud/USearch) - single-file search engine for C, C++, Rust, Swift, Go, Java, C#, Python, JS..., _replacing FAISS_
-- [StringZilla](https://github.com/ashvardanian/StringZilla) - faster strings with SIMD/SWAR for C, C++, Rust, Python, and Swift, _replacing GlibC and STL_
-- [UForm](https://github.com/unum-cloud/UForm) - small multimodal pre-trained AI models with SDKs for Python, JS, and Swift, _replacing CLIP_
-- [SimSIMD](https://github.com/ashvardanian/SimSIMD) - fast vector-vector math library for C, Python, Rust, and JavaScript, _replacing BLAS level 1_
-- [UCall](https://github.com/unum-cloud/UCall) - networking server library for C and Python designed for Linux kernel bypass, _replacing FastAPI_
+- [USearch](https://github.com/unum-cloud/USearch) - single-file search engine for C, C++, Rust, Swift, Go, Java, C#, Python, JS..., _FAISS alternative_
+- [StringZilla](https://github.com/ashvardanian/StringZilla) - faster strings with SIMD/SWAR for C, C++, Rust, Python, and Swift, _GlibC & STL alternative_
+- [UForm](https://github.com/unum-cloud/UForm) - small multimodal pre-trained AI models with SDKs for Python, JS, and Swift, _CLIP alternative_
+- [SimSIMD](https://github.com/ashvardanian/SimSIMD) - fast vector-vector math library for C, Python, Rust, and JavaScript, _BLAS l1 alternative_
+- [UCall](https://github.com/unum-cloud/UCall) - networking server library for C and Python designed for Linux kernel bypass, _FastAPI alternative_
 
 Some of those are used in [ClickHouse](https://github.com/ClickHouse/ClickHouse), [DuckDB](https://github.com/duckdb/duckdb), [TiDB](https://github.com/pingcap/tidb), [ScyllaDB](https://github.com/scylladb/scylladb), [YugaByte](https://github.com/yugabyte/yugabyte-db), and many other less "open" systems, such as competitive AI labs, Cloud companies, Fortune 500, iOS and Android apps with 100M-1B MAU, and government agencies.
 Smaller projects include:
