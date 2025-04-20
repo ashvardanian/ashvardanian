@@ -6,7 +6,7 @@
 - Investing in deep-tech, cloud, & semiconductors.
 - Love organizing hackathons & meetups.
 - Speak English, Russian, & Armenian.
-- Living between 🇺🇸🇬🇧🇷🇺🇦🇲 & 🇲🇽🇵🇦🇦🇷🇩🇪🇦🇪🇹🇭🇲🇾🇻🇳🇮🇩.
+- Lived in 🇺🇸🇬🇧🇷🇺🇦🇲 & 🇲🇽🇵🇦🇦🇷🇩🇪🇦🇪🇹🇭🇲🇾🇻🇳🇮🇩.
 
 Want to chat?
 I'm ashvardanian on most platforms, including [Twitter/X](https://twitter.com/ashvardanian) and [LinkedIn](https://linkedin.com/in/ashvardanian).
