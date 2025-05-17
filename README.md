@@ -33,7 +33,8 @@ Smaller projects include:
 - [less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - teaches a performance oriented mindset for C++, CUDA, PTX, and ASM
   - [less_slow.rs](https://github.com/ashvardanian/less_slow.rs) - Rust adaptation with a focus on higher-level abstractions
   - [less_slow.py](https://github.com/ashvardanian/less_slow.py) - Python adaptation with a focus on scripting & data-management
-- [USearch-Molecules](https://github.com/ashvardanian/USearch-Molecules) - 28 billion embeddings - one of the largest datasets in Computational Chemistry
+- [usearch-molecules](https://github.com/ashvardanian/usearch-molecules) - 28 billion embeddings - one of the largest datasets in Computational Chemistry
+- [fork_union](https://github.com/ashvardanian/fork_union) - OpenMP-like fine-grained C++ scoped thread-pool w/out mutexes, exceptions, or CAS
 - [UStore](https://github.com/unum-cloud/UStore) - multimodal embedded database for C, C++, and Python designed around key-value stores
 - [SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - example of on-device real-time AI using UForm and USearch on iOS
 - [cuda-python-starter-kit](https://github.com/ashvardanian/cuda-python-starter-kit) - C++ and CUDA starter kit for Python developers avoiding CMake
@@ -44,6 +45,7 @@ Smaller projects include:
 - [usearch-benchmarks](https://github.com/unum-cloud/usearch-benchmarks) - Billion-scale Vector Search benchmarks against FAISS, Weaviate, Qdrant, etc.
 - [ucsb](https://github.com/unum-cloud/ucsb) - parallel benchmarks for ACID persistent key-value stores, like RocksDB
 - [scaling-democracy](https://github.com/ashvardanian/scaling-democracy) - combinatorial voting method implemented in CUDA for H100 GPUs
+- [jaccard-index](https://github.com/ashvardanian/jaccard-index) - optimizing CPU port utilization with Carry-Save Adders & Lookups
 - [LibSee](https://github.com/ashvardanian/libsee) - non-intrusively profiling LibC calls with `LD_PRELOAD` tricks
 
 ## Materials
