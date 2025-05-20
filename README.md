@@ -1,7 +1,7 @@
 # Hey, I'm Ash, and I Love Building Infra
 
 - CS/AI researcher.
-- Astrophysics dropout.
+- 2x Astrophysics dropout.
 - Building [Unum](https://unum.cloud) since 2015.
 - Investing in deep-tech, cloud, & semiconductors.
 - Love organizing hackathons & meetups.
@@ -34,7 +34,7 @@ Smaller projects include:
   - [less_slow.rs](https://github.com/ashvardanian/less_slow.rs) - Rust adaptation with a focus on higher-level abstractions
   - [less_slow.py](https://github.com/ashvardanian/less_slow.py) - Python adaptation with a focus on scripting & data-management
 - [usearch-molecules](https://github.com/ashvardanian/usearch-molecules) - 28 billion embeddings - one of the largest datasets in Computational Chemistry
-- [fork_union](https://github.com/ashvardanian/fork_union) - OpenMP-like fine-grained C++ scoped thread-pool w/out mutexes, exceptions, or CAS
+- [fork_union](https://github.com/ashvardanian/fork_union) - OpenMP-like Rust & C++ scoped thread-pool w/out mutexes, allocs, exceptions, or CAS
 - [UStore](https://github.com/unum-cloud/UStore) - multimodal embedded database for C, C++, and Python designed around key-value stores
 - [SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - example of on-device real-time AI using UForm and USearch on iOS
 - [cuda-python-starter-kit](https://github.com/ashvardanian/cuda-python-starter-kit) - C++ and CUDA starter kit for Python developers avoiding CMake
