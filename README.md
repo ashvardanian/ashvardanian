@@ -55,6 +55,7 @@ Smaller projects include:
 - [Corporate Blog](https://www.unum.cloud/blog)
 
 Cherry picks:
+[![](https://img.shields.io/youtube/views/bDRo7Cf7x1o?label=Matrix%20Multiplication%20Assembly%20Instructions%2C%202025)](https://www.youtube.com/watch?v=bDRo7Cf7x1o&list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT)
 [![](https://img.shields.io/youtube/views/ybWeUf_hC7o?label=Designing%20the%20fastest%20ACID%20Key-Value%20Store%2C%202022)](https://www.youtube.com/watch?v=ybWeUf_hC7o&list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT)
 [![](https://img.shields.io/youtube/views/AA4RI6o0h1U?label=Dive%20into%20the%20general%20purpose%20GPU%20programming%2C%202019)](https://www.youtube.com/watch?v=AA4RI6o0h1U&list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT)
 [![](https://img.shields.io/youtube/views/PQKYc0zK0iU?label=Bird's%20Eye%20View%20of%20Open-Source%20AI%20Infrastructure%2C%202023)](https://www.youtube.com/watch?v=PQKYc0zK0iU&list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT&t=65s)
