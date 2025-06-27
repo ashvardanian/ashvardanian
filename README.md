@@ -27,7 +27,7 @@ If you're looking for Venture Capital for something deeply technical or scientif
 - [SimSIMD](https://github.com/ashvardanian/SimSIMD) - fast vector-vector math library for C, Python, Rust, and JavaScript, _BLAS l1 alternative_
 - [UCall](https://github.com/unum-cloud/UCall) - networking server library for C and Python designed for Linux kernel bypass, _FastAPI alternative_
 
-Some of those are used in [ClickHouse](https://github.com/ClickHouse/ClickHouse), [DuckDB](https://github.com/duckdb/duckdb), [TiDB](https://github.com/pingcap/tidb), [ScyllaDB](https://github.com/scylladb/scylladb), [YugaByte](https://github.com/yugabyte/yugabyte-db), [LangChain](https://github.com/langchain-ai/langchain), [SemanticKernel](https://github.com/microsoft/semantic-kernel), and many other less "open" systems, such as competitive AI labs, Cloud companies, Fortune 500, iOS and Android apps with 100M-1B MAU, and government agencies.
+Some of those are used in [ClickHouse](https://github.com/ClickHouse/ClickHouse), [DuckDB](https://github.com/duckdb/duckdb), [TiDB](https://github.com/pingcap/tidb), [ScyllaDB](https://github.com/scylladb/scylladb), [YugaByte](https://github.com/yugabyte/yugabyte-db), [LangChain](https://github.com/langchain-ai/langchain), [SemanticKernel](https://github.com/microsoft/semantic-kernel), [MemGraph](https://github.com/memgraph), [KuzuDB](https://github.com/kuzudb/kuzu), and many other less "open" systems, such as competitive AI labs, Cloud companies, Fortune 500, iOS and Android apps with 100M-1B MAU, and government agencies.
 Smaller projects include:
 
 - [less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - teaches a performance oriented mindset for C++, CUDA, PTX, and ASM
