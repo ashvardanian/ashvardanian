@@ -42,6 +42,7 @@ Other software projects & datasets include:
 - [TinySemVer](https://github.com/ashvardanian/tinysemver) - Semantic versioning GitHub CI tool that doesn't take 300K lines of JavaScript
 - [affine-gaps](https://github.com/ashvardanian/affine-gaps) - Less wrong local and global Gotoh sequence alignments in one NumBa Python file
 - [SpaceV](https://github.com/ashvardanian/SpaceV) - 1 billion vectors from Microsoft SpaceV extended for usability
+- [StringTape](https://github.com/ashvardanian/StringTape) - Apache Arrow compatible tapes for space-efficient string arrays
 
 And more demos, benchmarks, and fun hackathon projects:
 
