@@ -46,7 +46,8 @@ Other software projects & datasets include:
 
 And more demos, benchmarks, and fun hackathon projects:
 
-- [StringWa.rs](https://github.com/ashvardanian/StringWa.rs) - micro-benchmarking StringZilla against the best Rust tools
+- [StringWars](https://github.com/ashvardanian/StringWars) - micro-benchmarking StringZilla against the best Rust tools
+- [HashEvals](https://github.com/ashvardanian/HashEvals) - testing avalanche effect & differential patterns of string hash functions
 - [scaling-democracy](https://github.com/ashvardanian/scaling-democracy) - combinatorial voting method implemented in CUDA for H100 GPUs
 - [SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - example of on-device real-time AI using UForm and USearch on iOS
 - [LibSee](https://github.com/ashvardanian/libsee) - non-intrusively profiling LibC calls with `LD_PRELOAD` tricks
