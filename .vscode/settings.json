@@ -1,13 +1,22 @@
 {
-    "cSpell.words": [
-        "BLAS",
-        "CUDA",
-        "FAISS",
-        "GPGPU",
-        "multimodal",
-        "pharma",
-        "SIMD",
-        "Vulkan",
-        "Zilla"
-    ]
+  "cSpell.words": [
+    "ashvardanian",
+    "Bioinformatics",
+    "BLAS",
+    "CUDA",
+    "FAISS",
+    "Gotoh",
+    "GPGPU",
+    "hackathon",
+    "Lucene",
+    "multimodal",
+    "pharma",
+    "SIMD",
+    "SWAR",
+    "usearch",
+    "Vald",
+    "Vulkan",
+    "yugabyte",
+    "Zilla"
+  ]
 }

@@ -1,22 +1,22 @@
-# Hey, I'm Ash, and I Love Building Infra
+# Hey, I'm Ash — I Love Building Infrastructure
 
 - Building [Unum Cloud](https://unum.cloud) since 2015.
-- Computer Science & AI researcher w/out publications.
-- Twice an Astrophysics dropout. Bioinformatics fan.
+- Computer Science & AI researcher (unpublished, by choice).
+- Twice an Astrophysics dropout, lifelong Bioinformatics fan.
 - Investing in deep-tech, cloud, & semiconductors.
 - Fluent in English, Russian & Armenian.
 - Lived in 🇺🇸🇬🇧🇷🇺🇦🇲 & 🇲🇽🇵🇦🇦🇷🇩🇪🇦🇪🇹🇭🇲🇾🇻🇳🇮🇩.
 - Frequent host of "Systems" meetups in [Armenia](https://github.com/cpp-armenia/meetings), and beyond.
 
-For the past 20ish years, I have been coding mainly in C++, CUDA, Python, and optimizing Assembly on x86/ARM.
-Prefer spaces over tabs, east-const, and procedural programming over object-oriented or functional.
+For ~20 years, I’ve been coding in C++, CUDA, and Python — optimizing Assembly on x86 & ARM.
+Prefer spaces over tabs, east-const, and procedural code over OOP or functional abstractions.
 
-Want to chat?
-My nick is __`@ashvardanian`__ on [GitHub](https://github.com/ashvardanian), [LinkedIn](https://linkedin.com/in/ashvardanian), [Twitter](https://twitter.com/ashvardanian), [Facebook](https://fb.com/ashvardanian), and [YouTube](https://youtube.com/playlist?list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT).
-If you're looking for Venture Capital for something deeply technical or scientific – feel free to send links or materials to ash@aal.vc 🤗
+__Want to chat?__
+I'm __`@ashvardanian`__ on [GitHub](https://github.com/ashvardanian), [LinkedIn](https://linkedin.com/in/ashvardanian), [Twitter](https://twitter.com/ashvardanian), [Facebook](https://fb.com/ashvardanian), and [YouTube](https://youtube.com/playlist?list=PL2kcrNAeGTFzZbccNB3P_xruYPskMmwRT).
+For venture, reach me at ash@aal.vc 🤗
 
-[![GitHub Org's stars: unum-cloud](https://img.shields.io/github/stars/unum-cloud?style=social&label=Unum%20Stars)](https://github.com/unum-cloud)
-[![GitHub User's stars: ashvardanian](https://img.shields.io/github/stars/ashvardanian?style=social&label=Personal%20Stars)](https://github.com/ashvardanian)
+[![GitHub Org's stars: Unum-Cloud](https://img.shields.io/github/stars/unum-cloud?style=social&label=Unum%20Stars)](https://github.com/unum-cloud)
+[![GitHub User's stars: AshVardanian](https://img.shields.io/github/stars/ashvardanian?style=social&label=Personal%20Stars)](https://github.com/ashvardanian)
 [![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/ashvardanian?label=HackerNews)](https://ashvardanian.com/about#hackernews) <br/>
 [![USearch Python installs](https://static.pepy.tech/personalized-badge/usearch?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20installs)](https://github.com/unum-cloud/usearch)
 [![SimSIMD Python installs](https://static.pepy.tech/personalized-badge/simsimd?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=SimSIMD%20Python%20installs)](https://github.com/ashvardanian/simsimd)
@@ -24,14 +24,14 @@ If you're looking for Venture Capital for something deeply technical or scientif
 
 ## Repositories
 
-- [USearch](https://github.com/unum-cloud/USearch) - single-file search engine for C, C++, Rust, Swift, Go, Java, C#, Python, JS..., _FAISS alternative_
-- [StringZilla](https://github.com/ashvardanian/StringZilla) - faster strings with SIMD/SWAR for C, C++, Rust, Python, and Swift, _GlibC & STL alternative_
-- [UForm](https://github.com/unum-cloud/UForm) - small multimodal pre-trained AI models with SDKs for Python, JS, and Swift, _CLIP alternative_
-- [SimSIMD](https://github.com/ashvardanian/SimSIMD) - fast mixed-precision math kernels for C, Python, Rust, and JavaScript, _BLAS lvl1 alternative_
-- [UCall](https://github.com/unum-cloud/UCall) - networking server library for C and Python designed for Linux kernel bypass, _FastAPI alternative_
-- [ForkUnion](https://github.com/ashvardanian/ForkUnion) - lower latency parallelism for Rust & C++ w/out mutexes, allocs, or CAS, _Rayon & TaskFlow alternative_
+- [USearch](https://github.com/unum-cloud/USearch) - a universal search engine powering many databases, AI labs, and experiments in Natural Sciences. Compact C++ core with 10+ language bindings — 10–100× faster than Meta FAISS for vector search and far beyond Apache Lucene.
+- [StringZilla](https://github.com/ashvardanian/StringZilla) - SIMD, SWAR, and CUDA-accelerated string algorithms for search, matching, hashing, and sorting at Web Scale and Bioinformatics scale. Hundreds of hand-tuned kernels with manual multi-versioning, exposed to C, C++, Rust, Python, Swift, and JavaScript, up to 10× faster on CPUs and 100× faster on GPUs.
+- [SimSIMD](https://github.com/ashvardanian/SimSIMD) - a large collection of mixed-precision vector math kernels for C, Python, Rust, and JavaScript. Designed for linear algebra, scientific computing, statistics, information retrieval, and image processing, delivering consistent SIMD speedups over BLAS and NumPy on both x86 and ARM architectures.
+- [UCall](https://github.com/unum-cloud/UCall) - a kernel-bypass web server backend for C and Python built on io_uring. Achieves 70× higher throughput and 50× lower latency than FastAPI for real-time workloads, including serving compact AI models.
+- [UForm](https://github.com/unum-cloud/UForm) - tiny multimodal AI models with state-of-the-art parameter and data efficiency. Compatible with Python, JS, and Swift, serving as a lightweight alternative to OpenAI CLIP for on-device and server inference.
+- [ForkUnion](https://github.com/ashvardanian/ForkUnion) - ultra-low-latency parallelism library for Rust and C++. Avoids allocations, mutexes, and even Compare-And-Swap atomics — achieving up to 10× speedups over Rayon and TaskFlow.
 
-Some of those are used in [ClickHouse](https://github.com/ClickHouse/ClickHouse), [DuckDB](https://github.com/duckdb/duckdb), [TiDB](https://github.com/pingcap/tidb), [ScyllaDB](https://github.com/scylladb/scylladb), [YugaByte](https://github.com/yugabyte/yugabyte-db), [LangChain](https://github.com/langchain-ai/langchain), [SemanticKernel](https://github.com/microsoft/semantic-kernel), [MemGraph](https://github.com/memgraph), [Vald](https://github.com/vdaas/vald), and many other less "open" systems, such as competitive AI labs, Cloud companies, Fortune 500, iOS and Android apps with 100M-1B MAU, and government agencies.
+Some of those are used in [ClickHouse](https://github.com/ClickHouse/ClickHouse), [DuckDB](https://github.com/duckdb/duckdb), [TiDB](https://github.com/pingcap/tidb), [ScyllaDB](https://github.com/scylladb/scylladb), [yugabyteDB](https://github.com/yugabyte/yugabyte-db), [LangChain](https://github.com/langchain-ai/langchain), [SemanticKernel](https://github.com/microsoft/semantic-kernel), [MemGraph](https://github.com/memgraph), [Vald](https://github.com/vdaas/vald), and many other less "open" systems, such as competitive AI labs, Cloud companies, Fortune 500, iOS and Android apps with 100M-1B MAU, and government agencies.
 There are also some cool scientific datasets and HPC tutorials you can borrow:
 
 - [usearch-molecules](https://github.com/ashvardanian/usearch-molecules) - 28 billion fingerprints for drug discovery, published with AWS
@@ -46,7 +46,7 @@ And more demos, benchmarks, and fun hackathon projects:
 - [StringWars](https://github.com/ashvardanian/StringWars) - micro-benchmarking StringZilla against the best Rust tools
 - [HashEvals](https://github.com/ashvardanian/HashEvals) - testing avalanche effect & differential patterns of string hash functions
 - [ScalingElections](https://github.com/ashvardanian/ScalingElections) - parallel combinatorial voting in CUDA and Mojo for H100 GPUs
-- [TinySemVer](https://github.com/ashvardanian/TinySemVer) - Semantic versioning GitHub CI tool that doesn't take 300K lines of JavaScript
+- [TinySemVer](https://github.com/ashvardanian/TinySemVer) - semantic versioning GitHub CI tool that doesn't take 300K lines of JavaScript
 - [SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - example of on-device real-time AI using UForm and USearch on iOS
 - [ParallelReductionsBenchmark](https://github.com/ashvardanian/ParallelReductionsBenchmark) - GPGPU benchmarks for SyCL, CUDA, OpenCL, Vulkan, etc.
 - [LibSee](https://github.com/ashvardanian/libsee) - non-intrusively profiling LibC calls with `LD_PRELOAD` tricks
@@ -55,8 +55,8 @@ And more demos, benchmarks, and fun hackathon projects:
 - [JaccardIndex](https://github.com/ashvardanian/JaccardIndex) - exploring CPU port utilization with Carry-Save Adders & Lookups
 - [USearchBench.py](https://github.com/ashvardanian/USearchBench.py) - Billion-scale search benchmarks against FAISS, Weaviate, and Qdrant
 - [USearchBench.java](https://github.com/ashvardanian/USearchBench.java) - Billion-scale search scaling benchmarks against Lucene, using Spark
-- [ucsb](https://github.com/unum-cloud/ucsb) - parallel benchmarks for ACID persistent key-value stores, like RocksDB
-- [affine-gaps](https://github.com/ashvardanian/affine-gaps) - Less wrong local and global Gotoh sequence alignments in one NumBa Python file
+- [ucsb](https://github.com/unum-cloud/ucsb) - parallel benchmarks for ACID-compliant key-value stores, like RocksDB
+- [affine-gaps](https://github.com/ashvardanian/affine-gaps) - "less wrong" local and global Gotoh sequence alignments in one NumBa Python file
 
 ## Materials
 
