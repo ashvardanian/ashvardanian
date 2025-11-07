@@ -11,10 +11,12 @@
     "Lucene",
     "multimodal",
     "pharma",
+    "RTTI",
     "SIMD",
     "SWAR",
     "usearch",
     "Vald",
+    "Vardanian",
     "Vulkan",
     "yugabyte",
     "Zilla"
