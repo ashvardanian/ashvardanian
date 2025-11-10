@@ -65,6 +65,35 @@ In libraries, attributes should be used to warn if functions are misused:
 - `[[nodiscard]]` where the result of function execution can't be silently dropped.
 - `[[maybe_unused]]` where the opposite effect is needed.
 
+Aim for __C++ 20 standard compatibility__, avoiding compiler-specific extensions in library code.
+Consider upgrading to C++ 23 once following proposals are widely supported:
+
+- [p1169](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p1169r4.html): `static operator ()` for efficient function objects.
+- [p0847](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p0847r7.html): "Deducing `this`" for explicit object parameter types.
+- [p2128](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p2128r6.pdf): Multi-dimensional subscripts for `std::mdspan`.
+- [p0881](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p0881r7.html): Stacktrace library.
+- [p0323](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p0323r12.html): `std::expected` for error handling.
+- [p0429](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p0429r9.pdf): `std::flat_map` for cache-friendly containers.
+
+Following C++ 20 features usage is encouraged:
+
+- [p0734](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/p0734r0.pdf): Concepts - forget `std::enable_if_t`.
+- [p0515](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/p0515r3.pdf): spaceship operator `<=>` for comparisons.
+- [p1099](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1099r5.html): `using enum` for cleaner `switch` tables.
+- `std::ranges`, `std::span`, `std::atomic_ref`, `std::bit_cast`, `std::format`, `std::source_location`.
+
+Following C++ 20 features should be avoided for broader compatibility:
+
+- [p0912](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p0912r5.html): Coroutines - avoid `co_yield` and `co_await`.
+- [p1103](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1103r3.pdf): Modules - no `import std;` yet.
+
+Following compiler versions are needed:
+
+- GCC 12+ is needed for C++ 20 with AVX-512 and SVE extensions.
+- Clang 17+ is needed for `consteval` functions and coroutines.
+- MSVC 19.29+ for ranges library.
+- AppleClang 16+ for floating-point atomics, text formatting, and source location.
+
 ### Formatting and Styling C++ Code
 
 I use `clang-format` with the configuration defined in `.clang-format` file at the root of the repository.
@@ -149,6 +178,8 @@ Start every file with a file-level docstring describing its relative path and pu
  *  and hidden global state synchronization. 
  */
 ```
+
+Use `#pragma region Name` and `#pragma endregion Name` to make sections of code collapsible and navigable in IDEs that support it.
 
 ### Dependency Management and Builds
 

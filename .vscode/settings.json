@@ -15,6 +15,7 @@
     "libc",
     "Lucene",
     "multimodal",
+    "nodiscard",
     "pharma",
     "pixi",
     "pyproject",
