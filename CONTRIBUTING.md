@@ -65,17 +65,6 @@ In libraries, attributes should be used to warn if functions are misused:
 - `[[nodiscard]]` where the result of function execution can't be silently dropped.
 - `[[maybe_unused]]` where the opposite effect is needed.
 
-Dependency management is done via `git submodule` or `FetchContent` in CMake.
-Use of heavy frameworks is avoided - meaning no - Boost, Poco, Folly, or Qt.
-Heavy and low-performance STL functionality is also avoided:
-
-| STL Component        | Replacement                    |
-| :------------------- | :----------------------------- |
-| `std::function`      | `void(*function)(void *state)` |
-| `std::iostream`      | FMT                            |
-| `std::unordered_map` | Abseil                         |
-| `std::regex`         | PCRE2, Intel HyperScan         |
-
 ### Formatting and Styling C++ Code
 
 I use `clang-format` with the configuration defined in `.clang-format` file at the root of the repository.
@@ -115,7 +104,7 @@ For multi-line descriptions, use 2 extra spaces for continuation indents:
 
 ```cpp
 /**
- *  @brief Erases all elements in the range [first, last) using const_iterators.
+ *  @brief Erases all elements in a range between two @c const_iterator values.
  *    Unlike STL, returns both the iterator following the last erased element and a status code.
  *    On error, some elements may have been erased (partial erase, matches STL's basic guarantee).
  *
@@ -123,6 +112,14 @@ For multi-line descriptions, use 2 extra spaces for continuation indents:
  *  @param[in] last End of range to erase (not erased).
  *  @return erase_result_t Contains iterator equal to @p last and status of the operation.
  *    Returns first error encountered, or success if all elements erased.
+ *
+ *  @par Example
+ *  @code{.cpp}
+ *    auto [it, status] = my_container.erase_range(it_begin, it_end);
+ *    if (status != status_t::success) {
+ *        // Handle error
+ *    }
+ *  @endcode 
  */
  ```
 
@@ -132,11 +129,61 @@ Mark class template parameters with `@tparam`.
 Mark function parameters with direction indicators: `@param[in]`, `@param[out]`, or `@param[inout]`.
 Mention them with `@p`.
 Mark class/type names and method names with `@c`.
-Put examples or multi-token code snippets in `@code` ... `@endcode` blocks.
+Put examples or multi-token code snippets in `@code{.cpp}` ... `@endcode` blocks.
 Use `@b` for bold text and `@a` for italics.
 Keep whitespaces on both sides of tags - `[ @p example]` not `[@p example]`.
+Start every file with a file-level docstring describing its relative path and purpose:
+
+```cpp
+/**
+ *  @brief This file provides utilities for data processing.
+ *    It includes functions for loading, transforming, and saving data.
+ *
+ *  @file shared/unum/utilities.hpp
+ *  @date November 25, 2015
+ *  @author Ash Vardanian
+ *
+ *  @section libc LibC Usage
+ *  Using parts of LibC functionality is discouraged. Prefer C++ STL alternatives
+ *  for @c constexpr or third-party alternatives to avoid locale-sensitive behavior
+ *  and hidden global state synchronization. 
+ */
+```
+
+### Dependency Management and Builds
+
+CMake is the preferred build system for C++ projects.
+Dependency management is done via `git submodule` or `FetchContent` in CMake.
+Use of heavy frameworks is avoided - meaning no - Boost, Poco, Folly, or Qt.
+Heavy and low-performance STL functionality is also avoided:
+
+| STL Component        | Replacement                    |
+| :------------------- | :----------------------------- |
+| `std::function`      | `void(*function)(void *state)` |
+| `std::iostream`      | FMT                            |
+| `std::unordered_map` | Abseil                         |
+| `std::regex`         | PCRE2, Intel HyperScan         |
+
+CMake should be kept as simple as possible.
+Minimize [generator expressions](https://cmake.org/cmake/help/latest/manual/cmake-generator-expressions.7.html), complex conditionals, and custom functions/macros.
+It's also a common pattern to split CMake into many files, including per-directory `CMakeLists.txt` and per-module `cmake/Find*.cmake` files.
+Both are discouraged - prefer a single `CMakeLists.txt` at the root.
+For projects with bindings to many higher-level languages prefer using their native build systems, such as `setuptools` for Python or `Cargo` for Rust, and avoid CMake altogether.
+Such projects, should ideally be bridged from C++ to C 99 via stable C ABI.
+
+### Testing and Benchmarking
+
+Both `GoogleTest` and `GoogleBenchmark` are well tested and widely used frameworks for testing and benchmarking C++ code.
+Use both where applicable, integrating with CMake via `FetchContent`.
+
+> [!NOTE]
+> For a collection of performance-oriented programming tips, check out [Less Slow C++](https://github.com/ashvardanian/less_slow.cpp).
 
 ## Python Code
+
+> [!NOTE]
+> For a minimal CMake-free project template for Python libraries PyBind-ing to CUDA/C++ kernels, check out [PyBindToGPUs](https://github.com/ashvardanian/PyBindToGPUs).
+> For a collection of performance-oriented programming tips, check out [Less Slow Python](https://github.com/ashvardanian/less_slow.py).
 
 Python code is formatted using `black` with default settings and 120-character line width for wide monitors, same as C++.
 Type hints are used wherever possible, avoiding `Any` unless absolutely necessary.
@@ -151,11 +198,40 @@ def example_function(param1: int, param2: str) -> bool:
         param2 (str): Description of param2.
     Returns:
         bool: Description of the return value.
+    Examples:
+        >>> example_function(5, "test")
+        True
+        >>> example_function(0, "")
+        False
     """
     pass
 ```
 
 Use `Args:` for parameters, `Returns:` for return values, and `Raises:` for exceptions.
+Start every file with a module-level docstring describing its purpose:
 
+```python
+#!/usr/bin/env python3
+"""This module provides utilities for data processing.
 
+It includes functions for loading, transforming, and saving data.
 
+Path: shared/unum/utilities.py
+Date: November 25, 2015
+Author: Ash Vardanian
+"""
+```
+
+### Dependency Management
+
+Avoid Anaconda and manual environment management.
+Prefer `uv` and `pixi` for virtual environment management.
+The former is better for CPU-only dependencies, the latter for GPU-accelerated ones and Mojo compatibility.
+Both respect `pyproject.toml`.
+
+### Testing and Benchmarking
+
+For testing, use a combination of `doctest` and `pytest`.
+The former takes care of `>>>` examples in docstrings, the latter for more complex test cases.
+Keep the tests as simple and readable as possible, preferably, without "fixtures" or complex setup/teardown logic.
+For benchmarking, consider `pytest-benchmark`, but be aware of its gigantic overhead.
