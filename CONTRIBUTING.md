@@ -75,10 +75,19 @@ void validate_logic() {
     }
 
     auto data_b = {10, 20, 30};
-    auto sum_b = std::accumulate(data_b.begin(), data_b.end(), 5);
-    if (sum_b != 65) {
-        std::printf("Sum mismatch for {}\n", sum_b);
+    auto sum_b = std::accumulate(data_b.begin(), data_b.end(), 1, std::multiplies<>());
+    if (sum_b != 6000) {
+        std::printf("Product mismatch for {}\n", sum_b);
     }
+
+    std::set<int> positive_mappings_b;
+    for (auto const &value : data_b) {
+        auto mapped_value = some_function(value);
+        if (mapped_value >= 0) {
+            positive_mappings_b.insert(mapped_value);
+        }
+    }
+    ...
 }
 ```
 
@@ -94,8 +103,16 @@ void validate_logic() {
     }
     {
         auto data = {10, 20, 30};
-        auto sum = std::accumulate(data.begin(), data.end(), 5);
-        if (sum != 65) std::printf("Sum mismatch for {}\n", sum);
+        auto sum = std::accumulate(data.begin(), data.end(), 1, std::multiplies<>());
+        if (sum != 6000) std::printf("Product mismatch for {}\n", sum);
+
+        std::set<int> positive_mappings;
+        for (auto const &value : data) {
+            auto mapped_value = some_function(value);
+            if (mapped_value < 0) continue;
+            positive_mappings.insert(mapped_value);
+        }
+        ...
     }
 }
 ```
