@@ -50,15 +50,62 @@ Even at the language level, there are clearly keywords that we use and others av
 
 There are other common patterns I prefer, more in line with modern C++ best practices:
 
-| Traditional                  | Preferred                    |
-| :--------------------------- | :--------------------------- |
-| `#ifdef X`                   | `#if defined(X)`             |
-| `#define FILE_NAME_H`        | `#pragma once`               |
-| `typedef x y;`               | `using y = x;`               |
-| `auto v = expr(); if (v) {}` | `if (auto v = expr(); v) {}` |
-| `if (x) { a; } else { b; }`  | `x ? a : b`                  |
+| Traditional                     | Preferred                            |
+| :------------------------------ | :----------------------------------- |
+| `#ifdef X`                      | `#if defined(X)`                     |
+| `#define FILE_NAME_H`           | `#pragma once`                       |
+| `typedef x y;`                  | `using y = x;`                       |
+| `auto v = expr(); if (v) {}`    | `if (auto v = expr(); v) {}`         |
+| `if (x) { a; } else { b; }`     | `x ? a : b`                          |
+| `~x() { if (y) { close(y); } }` | `~x() { if (!y) return; close(y); }` |
 
-The last example can be pushed even further using branchless techniques.
+Avoid nesting in simple contexts.
+That said, use scopes to limit the lifetime of variables and namespace pollution.
+
+<table>
+<tr>
+<td>
+
+```cpp
+void validate_logic() {
+    auto data_a = {1, 2, 3, 4, 5};
+    auto sum_a = std::accumulate(data_a.begin(), data_a.end(), 0);        
+    if (sum_a != 15) {
+        std::printf("Sum mismatch for {}\n", sum_a);
+    }
+
+    auto data_b = {10, 20, 30};
+    auto sum_b = std::accumulate(data_b.begin(), data_b.end(), 5);
+    if (sum_b != 65) {
+        std::printf("Sum mismatch for {}\n", sum_b);
+    }
+}
+```
+
+</td>
+<td>
+
+```cpp
+void validate_logic() {
+    {
+        auto data = {1, 2, 3, 4, 5};
+        auto sum = std::accumulate(data.begin(), data.end(), 0);        
+        if (sum != 15) std::printf("Sum mismatch for {}\n", sum);
+    }
+    {
+        auto data = {10, 20, 30};
+        auto sum = std::accumulate(data.begin(), data.end(), 5);
+        if (sum != 65) std::printf("Sum mismatch for {}\n", sum);
+    }
+}
+```
+
+</td>
+</tr>
+</table>
+
+
+Prefer branchless techniques where possible.
 Hand-written SIMD code or 4-8x way unrolled scalar code is often welcomed.
 In libraries, attributes should be used to warn if functions are misused:
 
@@ -104,8 +151,11 @@ Tools aside, there are things that can't be enforced automatically but are still
 
 - Private names should end with an underscore, e.g., `my_variable_` or `my_type_`.
 - Use `snake_case` for everything - variable, function names, templates, namespaces, etc.
+- Prefer full words over abbreviations, e.g., `iterator` & `element` instead of `iter` & `elem`.
 - Instantiate types (not templates) should end with `_t`, e.g., `value_t` or `string_view_t`.
 - Avoid abbreviations and single-letter names, except for loop indices like `i`, `j`, or `k`.
+- Avoid extra braces in single-line blocks, like `if (condition) task();`.
+- Avoid generic class and variable names like `manager`, `value`, `item`, `obj`, `data`, `entry` - to simplify navigating GDB contexts.
 
 Documentation is trickier.
 All docstrings must use Doxygen-style comments.
@@ -153,15 +203,16 @@ For multi-line descriptions, use 2 extra spaces for continuation indents:
  ```
 
 Use `@see` for external references, `@sa` for internal cross-references, `@note` for attention points.
-Use `@retval` for enumerated return values.
+Use `@retval` for enumerated return values and `@return` for general return descriptions.
 Mark class template parameters with `@tparam`.
-Mark function parameters with direction indicators: `@param[in]`, `@param[out]`, or `@param[inout]`.
-Mention them with `@p`.
-Mark class/type names and method names with `@c`.
+Mark function parameters with direction indicators: `@param[in]`, `@param[out]`, or `@param[inout]` and cross-reference them with `@p` within the comment body.
+Mark other class/type names and method names with `@c`.
 Put examples or multi-token code snippets in `@code{.cpp}` ... `@endcode` blocks.
 Use `@b` for bold text and `@a` for italics.
 Keep whitespaces on both sides of tags - `[ @p example]` not `[@p example]`.
-Start every file with a file-level docstring describing its relative path and purpose:
+Use `@par` for titled sections within docstrings.
+Start every file with a file-level docstring describing its relative path and purpose.
+Use `@section` and `@subsection` for identifiable sections in such long documents:
 
 ```cpp
 /**
@@ -179,7 +230,19 @@ Start every file with a file-level docstring describing its relative path and pu
  */
 ```
 
+For short inline explanations, use `//` comments.
+
+```cpp
+enum class status_t {
+    success_k,      // Operation completed successfully
+    bad_alloc_k,    // Memory allocation failed
+    invalid_arg_k,  // Invalid argument provided
+    timeout_k       // Duration exceeded allowed limit
+};
+```
+
 Use `#pragma region Name` and `#pragma endregion Name` to make sections of code collapsible and navigable in IDEs that support it.
+
 
 ### Dependency Management and Builds
 
@@ -191,7 +254,7 @@ Heavy and low-performance STL functionality is also avoided:
 | STL Component        | Replacement                    |
 | :------------------- | :----------------------------- |
 | `std::function`      | `void(*function)(void *state)` |
-| `std::iostream`      | FMT                            |
+| `std::iostream`      | FMT or `std::format`           |
 | `std::unordered_map` | Abseil                         |
 | `std::regex`         | PCRE2, Intel HyperScan         |
 
