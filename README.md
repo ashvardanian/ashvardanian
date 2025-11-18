@@ -56,7 +56,8 @@ And more demos, benchmarks, and fun hackathon projects:
 - [USearchBench.py](https://github.com/ashvardanian/USearchBench.py) - Billion-scale search benchmarks against FAISS, Weaviate, and Qdrant
 - [USearchBench.java](https://github.com/ashvardanian/USearchBench.java) - Billion-scale search scaling benchmarks against Lucene, using Spark
 - [ucsb](https://github.com/unum-cloud/ucsb) - parallel benchmarks for ACID-compliant key-value stores, like RocksDB
-- [affine-gaps](https://github.com/ashvardanian/affine-gaps) - "less wrong" local and global Gotoh sequence alignments in one NumBa Python file
+- [affine-gaps](https://github.com/gata-bio/affine-gaps) - "less wrong" local and global Gotoh sequence alignments in one NumBa Python file
+- [faster-fasta](https://github.com/gata-bio/faster-fasta) - CLI tool for to parse, sort, dedup, and translate DNA, RNA, & protein sequences
 
 ## Materials
 
