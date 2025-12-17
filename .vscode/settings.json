@@ -16,6 +16,7 @@
     "Lucene",
     "multimodal",
     "nodiscard",
+    "noexcept",
     "pharma",
     "pixi",
     "pyproject",

@@ -50,14 +50,15 @@ Even at the language level, there are clearly keywords that we use and others av
 
 There are other common patterns I prefer, more in line with modern C++ best practices:
 
-| Traditional                     | Preferred                            |
-| :------------------------------ | :----------------------------------- |
-| `#ifdef X`                      | `#if defined(X)`                     |
-| `#define FILE_NAME_H`           | `#pragma once`                       |
-| `typedef x y;`                  | `using y = x;`                       |
-| `auto v = expr(); if (v) {}`    | `if (auto v = expr(); v) {}`         |
-| `if (x) { a; } else { b; }`     | `x ? a : b`                          |
-| `~x() { if (y) { close(y); } }` | `~x() { if (!y) return; close(y); }` |
+| Traditional                     | Preferred                                        |
+| :------------------------------ | :----------------------------------------------- |
+| `#ifdef X`                      | `#if defined(X)`                                 |
+| `#define FILE_NAME_H`           | `#pragma once`                                   |
+| `typedef x y;`                  | `using y = x;`                                   |
+| `auto v = expr(); if (v) {}`    | `if (auto v = expr(); v) {}`                     |
+| `if (x) { a; } else { b; }`     | `x ? a : b`                                      |
+| `~x() { if (y) { close(y); } }` | `~x() { if (!y) return; close(y); }`             |
+| `x::x() noexcept(false) {  }`   | `static std::optional<x> x::make() noexcept { }` |
 
 Avoid nesting in simple contexts.
 That said, use scopes to limit the lifetime of variables and namespace pollution.
@@ -346,3 +347,6 @@ For testing, use a combination of `doctest` and `pytest`.
 The former takes care of `>>>` examples in docstrings, the latter for more complex test cases.
 Keep the tests as simple and readable as possible, preferably, without "fixtures" or complex setup/teardown logic.
 For benchmarking, consider `pytest-benchmark`, but be aware of its gigantic overhead.
+
+## Rust Code
+
