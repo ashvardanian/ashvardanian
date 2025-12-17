@@ -25,7 +25,7 @@ For venture, reach me at ash@aal.vc 🤗
 ## Repositories
 
 - __[USearch](https://github.com/unum-cloud/USearch)__ - a universal search engine powering many databases, AI labs, and experiments in Natural Sciences. Compact C++ core with 10+ language bindings — 10–100× faster than Meta FAISS for vector search and far beyond Apache Lucene.
-- __[StringZilla](https://github.com/ashvardanian/StringZilla)__ - SIMD, SWAR, and CUDA-accelerated string algorithms for search, matching, hashing, and sorting at Web Scale and Bioinformatics scale. Hundreds of hand-tuned kernels with manual multi-versioning, exposed to C, C++, Rust, Python, Swift, and JavaScript, up to 10× faster on CPUs and 100× faster on GPUs.
+- __[StringZilla](https://github.com/ashvardanian/StringZilla)__ - SIMD, SWAR, and CUDA-accelerated string algorithms for search, matching, hashing, and sorting at Web-scale Unicode UTF-8 text and Petabyte-scale Bioinformatics data. Hundreds of hand-tuned kernels with manual multi-versioning, exposed to C, C++, Rust, Python, Swift, and JavaScript, up to 10× faster on CPUs and 100× faster on GPUs.
 - __[SimSIMD](https://github.com/ashvardanian/SimSIMD)__ - an extensive collection of mixed-precision vector math kernels for C, Python, Rust, and JavaScript. Designed for linear algebra, scientific computing, statistics, information retrieval, and image processing, delivering consistent SIMD speedups over BLAS and NumPy on both x86 and ARM architectures.
 - __[UCall](https://github.com/unum-cloud/UCall)__ - a kernel-bypass web server backend for C and Python built on io_uring. Achieves 70× higher throughput and 50× lower latency than FastAPI for real-time workloads, including serving compact AI models.
 - __[UForm](https://github.com/unum-cloud/UForm)__ - tiny multimodal AI models with state-of-the-art parameter and data efficiency. Compatible with Python, JS, and Swift, serving as a lightweight alternative to OpenAI CLIP for on-device and server inference.
@@ -56,7 +56,8 @@ And more demos, benchmarks, and fun hackathon projects:
 - [USearchBench.py](https://github.com/ashvardanian/USearchBench.py) - Billion-scale search benchmarks against FAISS, Weaviate, and Qdrant
 - [USearchBench.java](https://github.com/ashvardanian/USearchBench.java) - Billion-scale search scaling benchmarks against Lucene, using Spark
 - [ucsb](https://github.com/unum-cloud/ucsb) - parallel benchmarks for ACID-compliant key-value stores, like RocksDB
-- [affine-gaps](https://github.com/ashvardanian/affine-gaps) - "less wrong" local and global Gotoh sequence alignments in one NumBa Python file
+- [affine-gaps](https://github.com/gata-bio/affine-gaps) - "less wrong" local and global Gotoh sequence alignments in one NumBa Python file
+- [faster-fasta](https://github.com/gata-bio/faster-fasta) - CLI tool for to parse, sort, dedup, and translate DNA, RNA, & protein sequences
 
 ## Materials
 
