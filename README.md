@@ -24,40 +24,39 @@ For venture, reach me at ash@aal.vc 🤗
 
 ## Repositories
 
-- __[USearch](https://github.com/unum-cloud/USearch)__ - a universal search engine powering many databases, AI labs, and experiments in Natural Sciences. Compact C++ core with 10+ language bindings — 10–100× faster than Meta FAISS for vector search and far beyond Apache Lucene.
-- __[StringZilla](https://github.com/ashvardanian/StringZilla)__ - SIMD, SWAR, and CUDA-accelerated string algorithms for search, matching, hashing, and sorting at Web-scale Unicode UTF-8 text and Petabyte-scale Bioinformatics data. Hundreds of hand-tuned kernels with manual multi-versioning, exposed to C, C++, Rust, Python, Swift, and JavaScript, up to 10× faster on CPUs and 100× faster on GPUs.
-- __[SimSIMD](https://github.com/ashvardanian/SimSIMD)__ - an extensive collection of mixed-precision vector math kernels for C, Python, Rust, and JavaScript. Designed for linear algebra, scientific computing, statistics, information retrieval, and image processing, delivering consistent SIMD speedups over BLAS and NumPy on both x86 and ARM architectures.
+- __[USearch](https://github.com/unum-cloud/USearch)__ - one of the world's most popular search engines, used in databases, AI labs, and large-scale Natural Science experiments.
+  Compact C++ core with 10+ language bindings — 10–100× faster than Meta FAISS for vector search and far beyond Apache Lucene.
+- __[StringZilla](https://github.com/ashvardanian/StringZilla)__ - one of the fastest string/text processing libraries leveraging SIMD, SWAR, and CUDA-accelerated algorithms for search, matching, hashing, and sorting at Web-scale Unicode UTF-8 text and Petabyte-scale Bioinformatics data.
+  Hundreds of hand-tuned kernels with manual multi-versioning, exposed to C, C++, Rust, Python, Swift, and JavaScript, up to 10× faster on CPUs and 100× faster on GPUs.
+- __[NumKong](https://github.com/ashvardanian/NumKong)__ - one of the largest & most-portable mixed-precision numerics projects for C, C++23, Python, Rust, and JavaScript.
+  Designed for linear algebra, scientific computing, statistics, information retrieval, and image processing, delivering consistent SIMD speedups over BLAS and NumPy on x86, ARM, RISC-V, PowerPC, LoongArch, and in-browser WASM environments, bringing 6-, 8-, and 16-bit obscure GPU-only floats to every modern chip.
+- __[ForkUnion](https://github.com/ashvardanian/ForkUnion)__ - ultra-low-latency parallelism library for Rust and C++.
+  Avoids allocations, mutexes, and even Compare-And-Swap atomics — achieving up to 10× speedups over Rayon and TaskFlow.
+
+Some of those are used in open-source databases, like [ClickHouse](https://github.com/ClickHouse/ClickHouse), [DuckDB](https://github.com/duckdb/duckdb), [TiDB](https://github.com/pingcap/tidb), [ScyllaDB](https://github.com/scylladb/scylladb), [yugabyteDB](https://github.com/yugabyte/yugabyte-db), [DragonflyDB](https://github.com/dragonflydb/dragonfly), [MemGraph](https://github.com/memgraph), [Vald](https://github.com/vdaas/vald), [Turso](https://github.com/tursodatabase/turso), [Chroma](https://github.com/chroma-core/chroma), LLM toolchains, like [LangChain](https://github.com/langchain-ai/langchain), [LlamaIndex](https://github.com/run-llama/semtools), [Microsoft SemanticKernel](https://github.com/microsoft/semantic-kernel), [Nomic AI GPT4All](https://github.com/nomic-ai/gpt4all), [Surf](https://github.com/deta/surf), and many other less "open" systems, such as backend infrastructure of major AI labs, government intelligence agencies, hyperscale cloud companies, Fortune 500, iOS and Android apps with 100M-1B MAU.
+
+And more projects, benchmarks, tutorials, and fun hackathon experiments:
+
 - __[UCall](https://github.com/unum-cloud/UCall)__ - a kernel-bypass web server backend for C and Python built on io_uring. Achieves 70× higher throughput and 50× lower latency than FastAPI for real-time workloads, including serving compact AI models.
 - __[UForm](https://github.com/unum-cloud/UForm)__ - tiny multimodal AI models with state-of-the-art parameter and data efficiency. Compatible with Python, JS, and Swift, serving as a lightweight alternative to OpenAI CLIP for on-device and server inference.
-- __[ForkUnion](https://github.com/ashvardanian/ForkUnion)__ - ultra-low-latency parallelism library for Rust and C++. Avoids allocations, mutexes, and even Compare-And-Swap atomics — achieving up to 10× speedups over Rayon and TaskFlow.
-
-Some of those are used in open-source databases, like [ClickHouse](https://github.com/ClickHouse/ClickHouse), [DuckDB](https://github.com/duckdb/duckdb), [TiDB](https://github.com/pingcap/tidb), [ScyllaDB](https://github.com/scylladb/scylladb), [yugabyteDB](https://github.com/yugabyte/yugabyte-db), [DragonflyDB](https://github.com/dragonflydb/dragonfly), [MemGraph](https://github.com/memgraph), [Vald](https://github.com/vdaas/vald), [Turso](https://github.com/tursodatabase/turso), [Chroma](https://github.com/chroma-core/chroma), LLM toolchains, like [LangChain](https://github.com/langchain-ai/langchain), [LlamaIndex](https://github.com/run-llama/semtools), [Microsoft SemanticKernel](https://github.com/microsoft/semantic-kernel), [Nomic AI GPT4All](https://github.com/nomic-ai/gpt4all), [Surf](https://github.com/deta/surf), and many other less "open" systems, such as backend infrastructure of major AI labs, government intelligence agencies, Hyper-scale cloud companies, Fortune 500, iOS and Android apps with 100M-1B MAU.
-There are also some cool scientific datasets and HPC tutorials you can borrow:
-
-- __[less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp)__ - teaches a performance oriented mindset for C++, CUDA, PTX, and ASM
+- __[less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp)__ - teaches a performance-oriented mindset for C++, CUDA, PTX, and ASM
   - __[less_slow.rs](https://github.com/ashvardanian/less_slow.rs)__ - Rust adaptation with a focus on higher-level abstractions
   - __[less_slow.py](https://github.com/ashvardanian/less_slow.py)__ - Python adaptation with a focus on scripting & data-management
 - __[SpaceV](https://github.com/ashvardanian/SpaceV)__ - 1 billion vectors from Microsoft SpaceV extended for usability
 - __[USearchMolecules](https://github.com/ashvardanian/usearch-molecules)__ - 28 billion fingerprints for drug discovery, published with AWS
-
-And more demos, benchmarks, and fun hackathon projects:
-
-- [UStore](https://github.com/unum-cloud/UStore) - multimodal embedded database for C, C++, and Python designed around key-value stores
-- [StringWars](https://github.com/ashvardanian/StringWars) - micro-benchmarking StringZilla against the best Rust tools
-- [HashEvals](https://github.com/ashvardanian/HashEvals) - testing avalanche effect & differential patterns of string hash functions
-- [ScalingElections](https://github.com/ashvardanian/ScalingElections) - parallel combinatorial voting in CUDA and Mojo for H100 GPUs
-- [TinySemVer](https://github.com/ashvardanian/TinySemVer) - semantic versioning GitHub CI tool that doesn't take 300K lines of JavaScript
 - [SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - example of on-device real-time AI using UForm and USearch on iOS
+- [RetriEval](https://github.com/ashvardanian/RetriEval) - Billion-scale Vector Search benchmarks for USearch, FAISS, cuVS, Weaviate, Qdrant, etc.
+- [NumWars](https://github.com/ashvardanian/NumWars) - micro-benchmarking NumKong against the best Rust & Python BLAS libraries
+- [StringWars](https://github.com/ashvardanian/StringWars) - micro-benchmarking StringZilla against the best Rust & Python string libraries
+- [HashEvals](https://github.com/ashvardanian/HashEvals) - testing avalanche effect & differential patterns of string hash functions
 - [ParallelReductionsBenchmark](https://github.com/ashvardanian/ParallelReductionsBenchmark) - GPGPU benchmarks for SyCL, CUDA, OpenCL, Vulkan, etc.
-- [LibSee](https://github.com/ashvardanian/libsee) - non-intrusively profiling LibC calls with `LD_PRELOAD` tricks
-- [PyBindToGPUs](https://github.com/ashvardanian/PyBindToGPUs) - C++ and CUDA starter kit for Python developers avoiding CMake
+- [AffineGaps](https://github.com/unum-bio/AffineGaps) - "less wrong" local and global Gotoh sequence alignments in one NumBa Python file
+- [FasterFASTA](https://github.com/unum-bio/FasterFASTA) - CLI tool to parse, sort, dedup, and translate DNA, RNA, & protein sequences
 - [StringTape](https://github.com/ashvardanian/StringTape) - Apache Arrow compatible tapes for space-efficient string arrays
-- [JaccardIndex](https://github.com/ashvardanian/JaccardIndex) - exploring CPU port utilization with Carry-Save Adders & Lookups
-- [USearchBench.py](https://github.com/ashvardanian/USearchBench.py) - Billion-scale search benchmarks against FAISS, Weaviate, and Qdrant
-- [USearchBench.java](https://github.com/ashvardanian/USearchBench.java) - Billion-scale search scaling benchmarks against Lucene, using Spark
-- [ucsb](https://github.com/unum-cloud/ucsb) - parallel benchmarks for ACID-compliant key-value stores, like RocksDB
-- [affine-gaps](https://github.com/gata-bio/affine-gaps) - "less wrong" local and global Gotoh sequence alignments in one NumBa Python file
-- [faster-fasta](https://github.com/gata-bio/faster-fasta) - CLI tool for to parse, sort, dedup, and translate DNA, RNA, & protein sequences
+- [LibSee](https://github.com/ashvardanian/libsee) - non-intrusively profiling LibC calls with `LD_PRELOAD` tricks
+- [ScalingElections](https://github.com/ashvardanian/ScalingElections) - parallel combinatorial voting in CUDA and Mojo for H100 GPUs
+- [UStore](https://github.com/unum-cloud/UStore) - multimodal embedded database for C, C++, and Python designed around key-value stores
+- [TinySemVer](https://github.com/ashvardanian/TinySemVer) - semantic versioning GitHub CI tool that doesn't take 300K lines of JavaScript
 
 ## Materials
 
