@@ -19,9 +19,10 @@ For venture, reach me at ash@aal.vc 🤗
 [![GitHub Org's stars: Unum-Cloud](https://img.shields.io/github/stars/unum-cloud?style=social&label=Unum%20Cloud%20Stars)](https://github.com/unum-cloud)
 [![GitHub Org's stars: Unum-Bio](https://img.shields.io/github/stars/unum-bio?style=social&label=Unum%20Bio%20Stars)](https://github.com/unum-bio)
 [![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/ashvardanian?label=HackerNews)](https://ashvardanian.com/about#hackernews) <br/>
-[![USearch Python installs](https://static.pepy.tech/personalized-badge/usearch?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20installs)](https://github.com/unum-cloud/usearch)
-[![SimSIMD Python installs](https://static.pepy.tech/personalized-badge/simsimd?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=SimSIMD%20Python%20installs)](https://github.com/ashvardanian/simsimd)
-[![StringZilla Python installs](https://static.pepy.tech/personalized-badge/stringzilla?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=StringZilla%20Python%20installs)](https://github.com/ashvardanian/stringzilla)
+[![USearch Python installs](https://static.pepy.tech/personalized-badge/usearch?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20installs)](https://github.com/unum-cloud/USearch)
+[![StringZilla Python installs](https://static.pepy.tech/personalized-badge/stringzilla?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=StringZilla%20Python%20installs)](https://github.com/ashvardanian/StringZilla)
+[![SimSIMD Python installs](https://static.pepy.tech/personalized-badge/simsimd?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=SimSIMD%20Python%20installs)](https://github.com/ashvardanian/SimSIMD)
+[![NumKong Python installs](https://static.pepy.tech/personalized-badge/numkong?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=NumKong%20Python%20installs)](https://github.com/ashvardanian/NumKong)
 
 ## Repositories
 
