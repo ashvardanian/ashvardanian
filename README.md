@@ -17,7 +17,7 @@ For venture, reach me at ash@aal.vc 🤗
 
 [![GitHub User's stars: AshVardanian](https://img.shields.io/github/stars/ashvardanian?style=social&label=Personal%20Stars)](https://github.com/ashvardanian)
 [![GitHub Org's stars: Unum-Cloud](https://img.shields.io/github/stars/unum-cloud?style=social&label=Unum%20Cloud%20Stars)](https://github.com/unum-cloud)
-[![GitHub Org's stars: Unum-Bio](https://img.shields.io/github/stars/unum-bio?style=social&label=Unum%20Bio%20Stars)](https://github.com/unum-bio)
+[![GitHub Org's stars: Unum-Science](https://img.shields.io/github/stars/unum-bio?style=social&label=Unum%20Science%20Stars)](https://github.com/unum-science)
 [![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/ashvardanian?label=HackerNews)](https://ashvardanian.com/about#hackernews) <br/>
 [![USearch Python installs](https://static.pepy.tech/personalized-badge/usearch?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20installs)](https://github.com/unum-cloud/USearch)
 [![StringZilla Python installs](https://static.pepy.tech/personalized-badge/stringzilla?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=StringZilla%20Python%20installs)](https://github.com/ashvardanian/StringZilla)
@@ -28,7 +28,7 @@ For venture, reach me at ash@aal.vc 🤗
 
 - __[USearch](https://github.com/unum-cloud/USearch)__ - one of the world's most popular search engines, used in databases, AI labs, and large-scale Natural Science experiments.
   Compact C++ core with 10+ language bindings — 10–100× faster than Meta FAISS for vector search and far beyond Apache Lucene.
-- __[StringZilla](https://github.com/ashvardanian/StringZilla)__ - one of the fastest string/text processing libraries leveraging SIMD, SWAR, and CUDA-accelerated algorithms for search, matching, hashing, and sorting at Web-scale Unicode UTF-8 text and Petabyte-scale Bioinformatics data.
+- __[StringZilla](https://github.com/ashvardanian/StringZilla)__ - one of the fastest string/text processing libraries leveraging SIMD, SWAR, and CUDA-accelerated algorithms for search, matching, hashing, and sorting at Web-scale Unicode UTF-8 text and Petabyte-scale Bioinformatics data. [CLI](https://github.com/ashvardanian/StringZilla-CLI)
   Hundreds of hand-tuned kernels with manual multi-versioning, exposed to C, C++, Rust, Python, Swift, and JavaScript, up to 10× faster on CPUs and 100× faster on GPUs.
 - __[NumKong](https://github.com/ashvardanian/NumKong)__ - one of the largest & most-portable mixed-precision numerics projects for C, C++23, Python, Rust, and JavaScript.
   Designed for linear algebra, scientific computing, statistics, information retrieval, and image processing, delivering consistent SIMD speedups over BLAS and NumPy on x86, ARM, RISC-V, PowerPC, LoongArch, and in-browser WASM environments, bringing 6-, 8-, and 16-bit obscure GPU-only floats to every modern chip.
@@ -44,17 +44,19 @@ And more projects, benchmarks, tutorials, and fun hackathon experiments:
 - __[less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp)__ - teaches a performance-oriented mindset for C++, CUDA, PTX, and ASM
   - __[less_slow.rs](https://github.com/ashvardanian/less_slow.rs)__ - Rust adaptation with a focus on higher-level abstractions
   - __[less_slow.py](https://github.com/ashvardanian/less_slow.py)__ - Python adaptation with a focus on scripting & data-management
-- __[SpaceV](https://github.com/ashvardanian/SpaceV)__ - 1 billion vectors from Microsoft SpaceV extended for usability
-- __[USearchMolecules](https://github.com/ashvardanian/usearch-molecules)__ - 28 billion fingerprints for drug discovery, published with AWS
+- __[USearchMolecules](https://github.com/unum-science/USearchMolecules)__ - 28 billion fingerprints for drug discovery, published with AWS
+- __[RetriEval](https://github.com/ashvardanian/RetriEval)__ - Billion-scale Vector Search benchmarks for USearch, FAISS, cuVS, Weaviate, Qdrant, etc.
 - [SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - example of on-device real-time AI using UForm and USearch on iOS
-- [RetriEval](https://github.com/ashvardanian/RetriEval) - Billion-scale Vector Search benchmarks for USearch, FAISS, cuVS, Weaviate, Qdrant, etc.
 - [NumWars](https://github.com/ashvardanian/NumWars) - micro-benchmarking NumKong against the best Rust & Python BLAS libraries
 - [StringWars](https://github.com/ashvardanian/StringWars) - micro-benchmarking StringZilla against the best Rust & Python string libraries
 - [HashEvals](https://github.com/ashvardanian/HashEvals) - testing avalanche effect & differential patterns of string hash functions
+- [SpaceV](https://github.com/ashvardanian/SpaceV) - 1 billion vectors from Microsoft SpaceV extended for usability
 - [ParallelReductionsBenchmark](https://github.com/ashvardanian/ParallelReductionsBenchmark) - GPGPU benchmarks for SyCL, CUDA, OpenCL, Vulkan, etc.
-- [AffineGaps](https://github.com/unum-bio/AffineGaps) - "less wrong" local and global Gotoh sequence alignments in one NumBa Python file
-- [FasterFASTA](https://github.com/unum-bio/FasterFASTA) - CLI tool to parse, sort, dedup, and translate DNA, RNA, & protein sequences
+- [AffineGaps](https://github.com/unum-science/AffineGaps) - "less wrong" local and global Gotoh sequence alignments in one NumBa Python file
+- [FasterFASTA](https://github.com/unum-science/FasterFASTA) - CLI tool to parse, sort, dedup, and translate DNA, RNA, & protein sequences
+- [SmallField](https://github.com/unum-science/SmallField) - small-molecule 3D conformers generation - on GPUs & in mixed-precision
 - [StringTape](https://github.com/ashvardanian/StringTape) - Apache Arrow compatible tapes for space-efficient string arrays
+- [JsonTape](https://github.com/ashvardanian/JsonTape) - allocator-aware & comments-preserving JSON & JSON5 library for Rust
 - [LibSee](https://github.com/ashvardanian/libsee) - non-intrusively profiling LibC calls with `LD_PRELOAD` tricks
 - [ScalingElections](https://github.com/ashvardanian/ScalingElections) - parallel combinatorial voting in CUDA and Mojo for H100 GPUs
 - [UStore](https://github.com/unum-cloud/UStore) - multimodal embedded database for C, C++, and Python designed around key-value stores
