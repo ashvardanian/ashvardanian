@@ -17,7 +17,7 @@ For venture, reach me at ash@aal.vc 🤗
 
 [![GitHub User's stars: AshVardanian](https://img.shields.io/github/stars/ashvardanian?style=social&label=Personal%20Stars)](https://github.com/ashvardanian)
 [![GitHub Org's stars: Unum-Cloud](https://img.shields.io/github/stars/unum-cloud?style=social&label=Unum%20Cloud%20Stars)](https://github.com/unum-cloud)
-[![GitHub Org's stars: Unum-Science](https://img.shields.io/github/stars/unum-bio?style=social&label=Unum%20Science%20Stars)](https://github.com/unum-science)
+[![GitHub Org's stars: Unum-Science](https://img.shields.io/github/stars/unum-science?style=social&label=Unum%20Science%20Stars)](https://github.com/unum-science)
 [![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/ashvardanian?label=HackerNews)](https://ashvardanian.com/about#hackernews) <br/>
 [![USearch Python installs](https://static.pepy.tech/personalized-badge/usearch?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=USearch%20Python%20installs)](https://github.com/unum-cloud/USearch)
 [![StringZilla Python installs](https://static.pepy.tech/personalized-badge/stringzilla?period=total&units=abbreviation&left_color=black&right_color=blue&left_text=StringZilla%20Python%20installs)](https://github.com/ashvardanian/StringZilla)
@@ -28,12 +28,13 @@ For venture, reach me at ash@aal.vc 🤗
 
 - __[USearch](https://github.com/unum-cloud/USearch)__ - one of the world's most popular search engines, used in databases, AI labs, and large-scale Natural Science experiments.
   Compact C++ core with 10+ language bindings — 10–100× faster than Meta FAISS for vector search and far beyond Apache Lucene.
-- __[StringZilla](https://github.com/ashvardanian/StringZilla)__ - one of the fastest string/text processing libraries leveraging SIMD, SWAR, and CUDA-accelerated algorithms for search, matching, hashing, and sorting at Web-scale Unicode UTF-8 text and Petabyte-scale Bioinformatics data. [CLI](https://github.com/ashvardanian/StringZilla-CLI)
+- __[StringZilla](https://github.com/ashvardanian/StringZilla)__ - one of the fastest string/text processing libraries leveraging SIMD, SWAR, and CUDA-accelerated algorithms for search, matching, hashing, and sorting at Web-scale Unicode UTF-8 text and Petabyte-scale Bioinformatics data.
   Hundreds of hand-tuned kernels with manual multi-versioning, exposed to C, C++, Rust, Python, Swift, and JavaScript, up to 10× faster on CPUs and 100× faster on GPUs.
+  [CLI](https://github.com/ashvardanian/StringZilla-CLI) included. 🦖
 - __[NumKong](https://github.com/ashvardanian/NumKong)__ - one of the largest & most-portable mixed-precision numerics projects for C, C++23, Python, Rust, and JavaScript.
-  Designed for linear algebra, scientific computing, statistics, information retrieval, and image processing, delivering consistent SIMD speedups over BLAS and NumPy on x86, ARM, RISC-V, PowerPC, LoongArch, and in-browser WASM environments, bringing 6-, 8-, and 16-bit obscure GPU-only floats to every modern chip.
+  Designed for linear algebra, scientific computing, statistics, information retrieval, and image processing, delivering consistent SIMD speedups over BLAS and NumPy on x86, ARM, RISC-V, PowerPC, LoongArch, and in-browser WASM environments, bringing 6-, 8-, and 16-bit obscure GPU-only floats to every modern chip. 🦍
 - __[ForkUnion](https://github.com/ashvardanian/ForkUnion)__ - ultra-low-latency parallelism library for Rust and C++.
-  Avoids allocations, mutexes, and even Compare-And-Swap atomics — achieving up to 10× speedups over Rayon and TaskFlow.
+  Avoids allocations, mutexes, and even Compare-And-Swap atomics — achieving up to 10× speedups over Rayon and TaskFlow. 🍴
 
 Some of those are used in open-source databases, like [ClickHouse](https://github.com/ClickHouse/ClickHouse), [DuckDB](https://github.com/duckdb/duckdb), [TiDB](https://github.com/pingcap/tidb), [ScyllaDB](https://github.com/scylladb/scylladb), [yugabyteDB](https://github.com/yugabyte/yugabyte-db), [DragonflyDB](https://github.com/dragonflydb/dragonfly), [MemGraph](https://github.com/memgraph), [Vald](https://github.com/vdaas/vald), [Turso](https://github.com/tursodatabase/turso), [Chroma](https://github.com/chroma-core/chroma), LLM toolchains, like [LangChain](https://github.com/langchain-ai/langchain), [LlamaIndex](https://github.com/run-llama/semtools), [Microsoft SemanticKernel](https://github.com/microsoft/semantic-kernel), [Nomic AI GPT4All](https://github.com/nomic-ai/gpt4all), [Surf](https://github.com/deta/surf), and many other less "open" systems, such as backend infrastructure of major AI labs, government intelligence agencies, hyperscale cloud companies, Fortune 500, iOS and Android apps with 100M-1B MAU.
 
@@ -46,6 +47,7 @@ And more projects, benchmarks, tutorials, and fun hackathon experiments:
   - __[less_slow.py](https://github.com/ashvardanian/less_slow.py)__ - Python adaptation with a focus on scripting & data-management
 - __[USearchMolecules](https://github.com/unum-science/USearchMolecules)__ - 28 billion fingerprints for drug discovery, published with AWS
 - __[RetriEval](https://github.com/ashvardanian/RetriEval)__ - Billion-scale Vector Search benchmarks for USearch, FAISS, cuVS, Weaviate, Qdrant, etc.
+- __[SmashTable](https://github.com/ashvardanian/SmashTable)__ - in-memory collections with DBMS-like consistent & atomic transactions in Python and C++
 - [SwiftSemanticSearch](https://github.com/ashvardanian/SwiftSemanticSearch) - example of on-device real-time AI using UForm and USearch on iOS
 - [NumWars](https://github.com/ashvardanian/NumWars) - micro-benchmarking NumKong against the best Rust & Python BLAS libraries
 - [StringWars](https://github.com/ashvardanian/StringWars) - micro-benchmarking StringZilla against the best Rust & Python string libraries
